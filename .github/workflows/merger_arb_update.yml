@@ -2,8 +2,8 @@ name: Merger Arb Update
 
 on:
   schedule:
-    # Runs at 08:20 UTC every weekday (Mon-Fri)
-    - cron: '20 8 * * 1-5'
+    # Runs at 05:30 UTC every weekday (06:30 BST / Mon-Fri)
+    - cron: '30 5 * * 1-5'
   workflow_dispatch:
 
 permissions:
