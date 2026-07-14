@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-13 19:33 UTC
+**Last updated:** 2026-07-14 07:24 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 1 |
+| Days running | 2 |
 
 ---
 
@@ -86,6 +86,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-13 | Does Vertex's Acquisition of Crinetics Pharmaceuticals Make  | VRTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/13/does-vertexs-acquisition-of-crinetics- |
 | 2026-07-13 | EdgeMode fast-tracks growth with Non-Binding Offer from Spar | EDGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/13/3326402/0/en/EdgeMode-fast |
 | 2026-07-13 | 3 Dividend Stocks with Growth on Tap for the Second Half | IBM | US | TBC | TBC | polygon_news | https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the- |
+| 2026-07-14 | VEON and JazzWorld Acquire TPL Insurance to Expand Digital I | VEON | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3326556/0/en/VEON-and-Jazz |
 
 
 ---
