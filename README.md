@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-14 07:24 UTC
+**Last updated:** 2026-07-15 07:27 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 2 |
+| Days running | 3 |
 
 ---
 
@@ -87,6 +87,11 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-13 | EdgeMode fast-tracks growth with Non-Binding Offer from Spar | EDGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/13/3326402/0/en/EdgeMode-fast |
 | 2026-07-13 | 3 Dividend Stocks with Growth on Tap for the Second Half | IBM | US | TBC | TBC | polygon_news | https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the- |
 | 2026-07-14 | VEON and JazzWorld Acquire TPL Insurance to Expand Digital I | VEON | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3326556/0/en/VEON-and-Jazz |
+| 2026-07-15 | Closing of Previously Announced Restructuring Transaction in | RY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327442/0/en/Closing-of-Pr |
+| 2026-07-15 | Zillow Group Securities Fraud Class Action Arising from Alle | Z | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327440/6713/en/Zillow-Gro |
+| 2026-07-15 | GPGI INVESTOR ALERT: Robbins Geller Rudman & Dowd LLP Files  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3327424/0/en/GPGI-INVESTOR |
+| 2026-07-15 | Cadence Design Systems vs. Synopsys: Which Technology Stock  | CDNS | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/07/14/cadence-design-systems-vs-sy |
+| 2026-07-15 | Halper Sadeh LLC is Investigating Whether NEE, CRBG, RMAX, A | NEE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3327411/0/en/Halper-Sadeh- |
 
 
 ---
