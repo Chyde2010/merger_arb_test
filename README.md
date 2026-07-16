@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-16 07:58 UTC
+**Last updated:** 2026-07-16 08:04 UTC
 
 ---
 
@@ -38,8 +38,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $408,226.50 |
-| Total return | +3982.27% |
+| Current NAV | $13,985.28 |
+| Total return | +39.85% |
 | Open positions | 4 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
@@ -70,6 +70,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-16 | 🟠 NEGATIVE_SPREAD | Tate & Lyle PLC | Target trading ABOVE deal price (spread: -98.9%). Possible competing bid or deal re-rating. |
 | 2026-07-16 | 🟠 NEGATIVE_SPREAD | Beazley PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
 | 2026-07-16 | 🟠 NEGATIVE_SPREAD | Intertek Group PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🔴 SPREAD_WIDENING | Spire Healthcare Group | Spread widened +14.7pp today (0.0% -> 14.7%). Possible deal stress. |
+| 2026-07-16 | 🔴 SPREAD_WIDENING | Tate & Lyle PLC | Spread widened +9.9pp today (0.0% -> 9.9%). Possible deal stress. |
+| 2026-07-16 | 🔴 SPREAD_WIDENING | Intertek Group PLC | Spread widened +3.0pp today (0.0% -> 3.0%). Possible deal stress. |
 
 
 ---
@@ -78,10 +81,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | $2.50 | $217.50 | -98.8% | +9969.4% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | $6.15 | $559.00 | -98.9% | +9864.4% | 88% | 2026-10-31 |
-| Beazley PLC | Zurich Insurance Group | UK | $13.10 | $1288.50 | -99.0% | +9911.7% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | $60.00 | $5825.00 | -99.0% | +10274.0% | 85% | 2027-01-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p2.50 | p2.18 | 14.7% | +0.9% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | p5.59 | 9.9% | -0.3% | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | p13.10 | p12.88 | 1.7% | +0.1% | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p60.00 | p58.25 | 3.0% | +3.7% | 85% | 2027-01-31 |
 
 
 ---
@@ -106,6 +109,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-15 | Cadence Design Systems vs. Synopsys: Which Technology Stock  | CDNS | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/07/14/cadence-design-systems-vs-sy |
 | 2026-07-16 | Stripe and Advent Reportedly Bid $60.50 a Share for PayPal.  | PYPL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/15/stripe-and-advent-reportedly-bid-6050- |
 | 2026-07-16 | Centerra Gold Announces Extension and Increase of its Corpor | CGAU | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328145/0/en/Centerra-Gold |
+| 2026-07-16 | Angelini Pharma Completes Acquisition of Catalyst Pharmaceut | CPRX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/16/3328252/0/en/Angelini-Phar |
 | 2026-07-16 | GeneDx Holdings Corp. Class Action Lawsuit Seeks Recovery fo | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328177/0/en/GeneDx-Holdin |
 
 
