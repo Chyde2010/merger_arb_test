@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-16 07:13 UTC
+**Last updated:** 2026-07-16 07:19 UTC
 
 ---
 
@@ -77,21 +77,19 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-12 | Netflix Might Be Ready to Buy Something Again, but It's Not  | NFLX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/netflix-might-be-ready-to-buy-somethin |
-| 2026-07-12 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages GeneDx Holdings | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/11/3325828/673/en/ROSEN-TOP-R |
-| 2026-07-13 | J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk- |
+| 2026-07-12 | Capital One Flips Millions of Discover Cards to Its Own Plat | COF | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/capital-one-flips-millions-of-discover |
+| 2026-07-12 | 3 Dividend Stocks Worth Holding for the Long Haul | ET | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/3-dividend-stocks-worth-holding-for-th |
+| 2026-07-13 | "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merge | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk- |
 | 2026-07-13 | This Looks Like the Perfect Stock for Warren Buffett and Gre | BRK.A | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/this-looks-like-the-perfect-stock-for- |
 | 2026-07-13 | Does Vertex's Acquisition of Crinetics Pharmaceuticals Make  | VRTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/13/does-vertexs-acquisition-of-crinetics- |
-| 2026-07-13 | EdgeMode fast-tracks growth with Non-Binding Offer from Spar | EDGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/13/3326402/0/en/EdgeMode-fast |
 | 2026-07-13 | 3 Dividend Stocks with Growth on Tap for the Second Half | IBM | US | TBC | TBC | polygon_news | https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the- |
 | 2026-07-14 | VEON and JazzWorld Acquire TPL Insurance to Expand Digital I | VEON | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3326556/0/en/VEON-and-Jazz |
 | 2026-07-15 | Closing of Previously Announced Restructuring Transaction in | RY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327442/0/en/Closing-of-Pr |
 | 2026-07-15 | Zillow Group Securities Fraud Class Action Arising from Alle | Z | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327440/6713/en/Zillow-Gro |
-| 2026-07-15 | GPGI INVESTOR ALERT: Robbins Geller Rudman & Dowd LLP Files  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3327424/0/en/GPGI-INVESTOR |
 | 2026-07-15 | Cadence Design Systems vs. Synopsys: Which Technology Stock  | CDNS | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/07/14/cadence-design-systems-vs-sy |
-| 2026-07-15 | Halper Sadeh LLC is Investigating Whether NEE, CRBG, RMAX, A | NEE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3327411/0/en/Halper-Sadeh- |
 | 2026-07-16 | Stripe and Advent Reportedly Bid $60.50 a Share for PayPal.  | PYPL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/15/stripe-and-advent-reportedly-bid-6050- |
 | 2026-07-16 | Centerra Gold Announces Extension and Increase of its Corpor | CGAU | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328145/0/en/Centerra-Gold |
+| 2026-07-16 | GeneDx Holdings Corp. Class Action Lawsuit Seeks Recovery fo | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328177/0/en/GeneDx-Holdin |
 
 
 ---
