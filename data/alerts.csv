@@ -3,3 +3,6 @@ date,deal_id,target,alert_type,detail,resolved
 2026-07-16,2,Tate & Lyle PLC,NEGATIVE_SPREAD,Target trading ABOVE deal price (spread: -98.9%). Possible competing bid or deal re-rating.,No
 2026-07-16,3,Beazley PLC,NEGATIVE_SPREAD,Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating.,No
 2026-07-16,4,Intertek Group PLC,NEGATIVE_SPREAD,Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating.,No
+2026-07-16,1,Spire Healthcare Group,SPREAD_WIDENING,Spread widened +14.9pp today (0.0% -> 14.9%). Possible deal stress.,No
+2026-07-16,2,Tate & Lyle PLC,SPREAD_WIDENING,Spread widened +9.9pp today (0.0% -> 9.9%). Possible deal stress.,No
+2026-07-16,4,Intertek Group PLC,SPREAD_WIDENING,Spread widened +3.1pp today (0.0% -> 3.1%). Possible deal stress.,No
