@@ -480,17 +480,26 @@ if len(open_deals) > 0:
         try:
             hist = yf.Ticker(ticker).history(period='5d', auto_adjust=True)
             if not hist.empty:
-                current_price = float(hist['Close'].iloc[-1])
+                raw_price = float(hist['Close'].iloc[-1])
+                # yfinance returns UK .L stocks in GBX (pence)
+                # Our CSV stores prices in pounds (2.50 = 250p)
+                # So divide yfinance pence price by 100 to get pounds
+                deal_geo = str(deal.get('geography', '')).strip().upper()
+                if deal_geo == 'UK':
+                    current_price = raw_price / 100
+                else:
+                    current_price = raw_price
+
                 current_spread = ((deal_price - current_price) / current_price) * 100
                 entry_price    = float(deal['entry_price']) if pd.notna(deal.get('entry_price')) else current_price
                 unrealised_pct = ((current_price - entry_price) / entry_price) * 100
 
                 # Update deal row
-                deals_df.at[idx, 'current_price']    = round(current_price, 4)
+                deals_df.at[idx, 'current_price']      = round(current_price, 4)
                 deals_df.at[idx, 'current_spread_pct'] = round(current_spread, 2)
-                deals_df.at[idx, 'unrealised_pct']   = round(unrealised_pct, 2)
+                deals_df.at[idx, 'unrealised_pct']     = round(unrealised_pct, 2)
 
-                # Update position value
+                # Update position value (shares x current price)
                 shares = float(deal['shares']) if pd.notna(deal.get('shares')) else 0
                 deals_df.at[idx, 'position_value'] = round(current_price * shares, 2)
 
@@ -642,11 +651,13 @@ if len(open_updated) > 0:
         target   = str(d['target'])
         acquirer = str(d.get('acquirer', '—'))
         geo      = str(d.get('geography', '—'))
-        dp       = f"${float(d['deal_price']):.2f}"       if pd.notna(d.get('deal_price'))      else '—'
-        cp       = f"${float(d['current_price']):.2f}"    if pd.notna(d.get('current_price'))   else '—'
-        sp       = f"{float(d['current_spread_pct']):.1f}%" if pd.notna(d.get('current_spread_pct')) else '—'
-        pnl      = f"{float(d['unrealised_pct']):+.1f}%"  if pd.notna(d.get('unrealised_pct')) else '—'
-        prob     = f"{float(d['completion_prob']):.0f}%"  if pd.notna(d.get('completion_prob')) else '—'
+        geo_d    = str(d.get('geography', '')).strip().upper()
+        currency = 'p' if geo_d == 'UK' else '$'
+        dp       = f"{currency}{float(d['deal_price']):.2f}"      if pd.notna(d.get('deal_price'))       else '—'
+        cp       = f"{currency}{float(d['current_price']):.2f}"   if pd.notna(d.get('current_price')) and float(d.get('current_price',0)) != 0 else '—'
+        sp       = f"{float(d['current_spread_pct']):.1f}%"       if pd.notna(d.get('current_spread_pct')) and float(d.get('current_spread_pct',0)) != 0 else '—'
+        pnl      = f"{float(d['unrealised_pct']):+.1f}%"          if pd.notna(d.get('unrealised_pct')) and float(d.get('unrealised_pct',0)) != 0 else '—'
+        prob     = f"{float(d['completion_prob']):.0f}%"           if pd.notna(d.get('completion_prob')) else '—'
         ec       = str(d.get('expected_close', '—'))[:10]
         open_rows += f'| {target} | {acquirer} | {geo} | {dp} | {cp} | {sp} | {pnl} | {prob} | {ec} |\n'
 else:
