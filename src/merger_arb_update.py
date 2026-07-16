@@ -111,7 +111,20 @@ def save_state(state):
 
 def load_csv(path, required_cols):
     if os.path.exists(path) and os.path.getsize(path) > len(','.join(required_cols)):
-        df = pd.read_csv(path)
+        try:
+            # Use Python engine with flexible quoting to handle
+            # GitHub browser editor stripping quotes from CSV fields
+            df = pd.read_csv(
+                path,
+                engine='python',
+                quoting=3,  # QUOTE_NONE — don't rely on quotes
+                on_bad_lines='skip',
+            )
+            # If we got fewer columns than expected, try standard read
+            if len(df.columns) < len(required_cols):
+                df = pd.read_csv(path, engine='python', on_bad_lines='skip')
+        except Exception:
+            df = pd.read_csv(path, on_bad_lines='skip')
         for col in required_cols:
             if col not in df.columns:
                 df[col] = None
@@ -140,8 +153,8 @@ candidates_df = load_csv(CANDIDATES_PATH,  CANDIDATE_COLS)
 alerts_df     = load_csv(ALERTS_PATH,      ALERT_COLS)
 perf_df       = load_csv(PERFORMANCE_PATH, PERF_COLS)
 
-open_deals   = deals_df[deals_df['status'] == 'open'].copy() if len(deals_df) > 0 else pd.DataFrame(columns=DEAL_COLS)
-closed_deals = deals_df[deals_df['status'] == 'closed'].copy() if len(deals_df) > 0 else pd.DataFrame(columns=DEAL_COLS)
+open_deals   = deals_df[deals_df['status'].astype(str).str.strip() == 'open'].copy() if len(deals_df) > 0 else pd.DataFrame(columns=DEAL_COLS)
+closed_deals = deals_df[deals_df['status'].astype(str).str.strip() == 'closed'].copy() if len(deals_df) > 0 else pd.DataFrame(columns=DEAL_COLS)
 
 print(f'\nOpen positions:    {len(open_deals)}')
 print(f'Closed positions:  {len(closed_deals)}')
