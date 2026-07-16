@@ -134,7 +134,7 @@ def load_csv(path, required_cols):
 state = load_state()
 
 DEAL_COLS = [
-    'deal_id', 'target', 'acquirer', 'geography', 'announcement_date',
+    'deal_id', 'target', 'acquirer', 'target_ticker', 'geography', 'announcement_date',
     'expected_close', 'deal_type', 'deal_price', 'entry_date', 'entry_price',
     'shares', 'position_value', 'current_price', 'current_spread_pct',
     'unrealised_pct', 'completion_prob', 'ev_score', 'status', 'outcome', 'notes'
@@ -451,7 +451,16 @@ prev_spreads  = {}
 
 if len(open_deals) > 0:
     for idx, deal in open_deals.iterrows():
-        ticker     = str(deal.get('target_ticker', deal['target']))
+        # Use target_ticker if set, otherwise derive from target name
+        raw_ticker = str(deal.get('target_ticker', '')).strip()
+        if not raw_ticker or raw_ticker == 'nan':
+            raw_ticker = str(deal['target'])
+        # Add .L suffix for UK stocks if not already present
+        geo = str(deal.get('geography', '')).strip().upper()
+        if geo == 'UK' and not raw_ticker.endswith('.L'):
+            ticker = raw_ticker + '.L'
+        else:
+            ticker = raw_ticker
         deal_price = float(deal['deal_price']) if pd.notna(deal.get('deal_price')) else None
         prev_spread = float(deal['current_spread_pct']) if pd.notna(deal.get('current_spread_pct')) else None
 
