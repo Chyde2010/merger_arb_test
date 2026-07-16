@@ -153,8 +153,16 @@ candidates_df = load_csv(CANDIDATES_PATH,  CANDIDATE_COLS)
 alerts_df     = load_csv(ALERTS_PATH,      ALERT_COLS)
 perf_df       = load_csv(PERFORMANCE_PATH, PERF_COLS)
 
+# DEBUG — remove once working
+print(f'deals_df shape: {deals_df.shape}')
+print(f'deals_df columns: {list(deals_df.columns)}')
+if len(deals_df) > 0:
+    print(f'status values: {deals_df["status"].tolist()}')
+    print(f'status dtype: {deals_df["status"].dtype}')
+
 open_deals   = deals_df[deals_df['status'].astype(str).str.strip() == 'open'].copy() if len(deals_df) > 0 else pd.DataFrame(columns=DEAL_COLS)
 closed_deals = deals_df[deals_df['status'].astype(str).str.strip() == 'closed'].copy() if len(deals_df) > 0 else pd.DataFrame(columns=DEAL_COLS)
+print(f'open_deals count: {len(open_deals)}')
 
 print(f'\nOpen positions:    {len(open_deals)}')
 print(f'Closed positions:  {len(closed_deals)}')
