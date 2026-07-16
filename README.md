@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-16 07:19 UTC
+**Last updated:** 2026-07-16 07:25 UTC
 
 ---
 
@@ -79,7 +79,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 |---------|--------|--------|-----|-----------|--------|--------|----------|
 | 2026-07-12 | Capital One Flips Millions of Discover Cards to Its Own Plat | COF | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/capital-one-flips-millions-of-discover |
 | 2026-07-12 | 3 Dividend Stocks Worth Holding for the Long Haul | ET | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/3-dividend-stocks-worth-holding-for-th |
-| 2026-07-13 | "J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merge | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk- |
+| 2026-07-13 | """J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Mer | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk- |
 | 2026-07-13 | This Looks Like the Perfect Stock for Warren Buffett and Gre | BRK.A | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/this-looks-like-the-perfect-stock-for- |
 | 2026-07-13 | Does Vertex's Acquisition of Crinetics Pharmaceuticals Make  | VRTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/13/does-vertexs-acquisition-of-crinetics- |
 | 2026-07-13 | 3 Dividend Stocks with Growth on Tap for the Second Half | IBM | US | TBC | TBC | polygon_news | https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the- |
