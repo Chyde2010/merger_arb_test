@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-16 07:54 UTC
+**Last updated:** 2026-07-16 07:58 UTC
 
 ---
 
@@ -38,8 +38,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $408,330.75 |
-| Total return | +3983.31% |
+| Current NAV | $408,226.50 |
+| Total return | +3982.27% |
 | Open positions | 4 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
@@ -66,6 +66,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-16 | 🟠 NEGATIVE_SPREAD | Tate & Lyle PLC | Target trading ABOVE deal price (spread: -98.9%). Possible competing bid or deal re-rating. |
 | 2026-07-16 | 🟠 NEGATIVE_SPREAD | Beazley PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
 | 2026-07-16 | 🟠 NEGATIVE_SPREAD | Intertek Group PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Spire Healthcare Group | Target trading ABOVE deal price (spread: -98.9%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Tate & Lyle PLC | Target trading ABOVE deal price (spread: -98.9%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Beazley PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Intertek Group PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
 
 
 ---
@@ -74,8 +78,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | $2.50 | $217.53 | -98.8% | +9971.0% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | $6.15 | $559.50 | -98.9% | +9873.3% | 88% | 2026-10-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | $2.50 | $217.50 | -98.8% | +9969.4% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | $6.15 | $559.00 | -98.9% | +9864.4% | 88% | 2026-10-31 |
 | Beazley PLC | Zurich Insurance Group | UK | $13.10 | $1288.50 | -99.0% | +9911.7% | 96% | 2026-10-31 |
 | Intertek Group PLC | EQT AB (Isotope Bidco) | UK | $60.00 | $5825.00 | -99.0% | +10274.0% | 85% | 2027-01-31 |
 
