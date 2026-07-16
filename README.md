@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-15 07:27 UTC
+**Last updated:** 2026-07-16 07:13 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 3 |
+| Days running | 4 |
 
 ---
 
@@ -77,8 +77,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-12 | Capital One Flips Millions of Discover Cards to Its Own Plat | COF | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/capital-one-flips-millions-of-discover |
-| 2026-07-12 | 3 Dividend Stocks Worth Holding for the Long Haul | ET | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/3-dividend-stocks-worth-holding-for-th |
 | 2026-07-12 | Netflix Might Be Ready to Buy Something Again, but It's Not  | NFLX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/netflix-might-be-ready-to-buy-somethin |
 | 2026-07-12 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages GeneDx Holdings | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/11/3325828/673/en/ROSEN-TOP-R |
 | 2026-07-13 | J.P. Morgan Called a Potential Elon Musk SpaceX-Tesla Merger | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk- |
@@ -92,6 +90,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-15 | GPGI INVESTOR ALERT: Robbins Geller Rudman & Dowd LLP Files  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3327424/0/en/GPGI-INVESTOR |
 | 2026-07-15 | Cadence Design Systems vs. Synopsys: Which Technology Stock  | CDNS | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/07/14/cadence-design-systems-vs-sy |
 | 2026-07-15 | Halper Sadeh LLC is Investigating Whether NEE, CRBG, RMAX, A | NEE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3327411/0/en/Halper-Sadeh- |
+| 2026-07-16 | Stripe and Advent Reportedly Bid $60.50 a Share for PayPal.  | PYPL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/15/stripe-and-advent-reportedly-bid-6050- |
+| 2026-07-16 | Centerra Gold Announces Extension and Increase of its Corpor | CGAU | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328145/0/en/Centerra-Gold |
 
 
 ---
