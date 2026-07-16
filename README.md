@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-16 07:37 UTC
+**Last updated:** 2026-07-16 07:47 UTC
 
 ---
 
@@ -38,9 +38,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $10,000.00 |
-| Total return | +0.00% |
-| Open positions | 0 |
+| Current NAV | $408,118.25 |
+| Total return | +3981.18% |
+| Open positions | 4 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
@@ -55,7 +55,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Date | Alert | Target | Detail |
 |------|-------|--------|--------|
-| — | ✅ No active alerts | — | — |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Spire Healthcare Group | Target trading ABOVE deal price (spread: -98.9%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Tate & Lyle PLC | Target trading ABOVE deal price (spread: -98.9%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Beazley PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
+| 2026-07-16 | 🟠 NEGATIVE_SPREAD | Intertek Group PLC | Target trading ABOVE deal price (spread: -99.0%). Possible competing bid or deal re-rating. |
 
 
 ---
@@ -64,7 +67,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| — | — | — | — | — | — | — | — | — |
+| Spire Healthcare Group | Toscafund Asset Management | UK | $2.50 | $217.53 | -98.8% | +9971.0% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | $6.15 | $559.00 | -98.9% | +9864.4% | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | $13.10 | $1288.00 | -99.0% | +9907.8% | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | $60.00 | $5820.00 | -99.0% | +10265.1% | 85% | 2027-01-31 |
 
 
 ---
@@ -79,7 +85,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 |---------|--------|--------|-----|-----------|--------|--------|----------|
 | 2026-07-12 | Capital One Flips Millions of Discover Cards to Its Own Plat | COF | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/capital-one-flips-millions-of-discover |
 | 2026-07-12 | 3 Dividend Stocks Worth Holding for the Long Haul | ET | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/3-dividend-stocks-worth-holding-for-th |
-| 2026-07-13 | """""""""""""""""""""""""""""""J.P. Morgan Called a Potentia | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk- |
+| 2026-07-13 | """""""""""""""""""""""""""""""""""""""""""""""""""""""""""" | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/jpmorgan-called-a-potential-elon-musk- |
 | 2026-07-13 | This Looks Like the Perfect Stock for Warren Buffett and Gre | BRK.A | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/12/this-looks-like-the-perfect-stock-for- |
 | 2026-07-13 | Does Vertex's Acquisition of Crinetics Pharmaceuticals Make  | VRTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/13/does-vertexs-acquisition-of-crinetics- |
 | 2026-07-13 | 3 Dividend Stocks with Growth on Tap for the Second Half | IBM | US | TBC | TBC | polygon_news | https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the- |
