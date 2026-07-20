@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-20 08:22 UTC
+**Last updated:** 2026-07-20 20:51 UTC
 
 ---
 
@@ -38,8 +38,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $13,988.81 |
-| Total return | +39.89% |
+| Current NAV | $10,042.19 |
+| Total return | +0.42% |
 | Open positions | 4 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
@@ -81,10 +81,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p2.50 | p2.19 | 14.2% | +1.4% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | p5.59 | 10.0% | -0.4% | 88% | 2026-10-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p2.50 | p2.18 | 14.7% | +0.9% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | p5.59 | 9.9% | -0.3% | 88% | 2026-10-31 |
 | Beazley PLC | Zurich Insurance Group | UK | p13.10 | p12.88 | 1.7% | +0.1% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p60.00 | p58.25 | 3.0% | +3.7% | 85% | 2027-01-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p60.00 | p58.20 | 3.1% | +3.6% | 85% | 2027-01-31 |
 
 
 ---
@@ -97,8 +97,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-13 | 3 Dividend Stocks with Growth on Tap for the Second Half | IBM | US | TBC | TBC | polygon_news | https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the- |
-| 2026-07-14 | VEON and JazzWorld Acquire TPL Insurance to Expand Digital I | VEON | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3326556/0/en/VEON-and-Jazz |
 | 2026-07-15 | Closing of Previously Announced Restructuring Transaction in | RY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327442/0/en/Closing-of-Pr |
 | 2026-07-15 | Zillow Group Securities Fraud Class Action Arising from Alle | Z | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327440/6713/en/Zillow-Gro |
 | 2026-07-15 | Cadence Design Systems vs. Synopsys: Which Technology Stock  | CDNS | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/07/14/cadence-design-systems-vs-sy |
@@ -110,8 +108,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-17 | Why AtaiBeckley Stock Soared Today | ATAI | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/16/why-ataibeckley-stock-is-up-today/?sou |
 | 2026-07-20 | Could Pfizer Ultimately Be the Biggest Winner in the $100 Bi | PFE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/could-pfizer-ultimately-be-the-biggest |
 | 2026-07-20 | Cribl acquiert CardinalOps pour étendre sa plateforme d'IA a | PANW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329449/0/fr/Cribl-acquier |
-| 2026-07-20 | EVA LIVE TARGETS A $3 TRILLION GLOBAL DEFENSE, SATELLITE AND | GOAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329416/0/en/EVA-LIVE-TARG |
-| 2026-07-20 | ROSEN, A RANKED AND LEADING LAW FIRM, Encourages GPGI, Inc.  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/19/3329403/673/en/ROSEN-A-RAN |
+| 2026-07-20 | WGS DEADLINE: ROSEN, A LEADING AND LONGSTANDING FIRM, Encour | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330077/673/en/WGS-DEADLIN |
+| 2026-07-20 | Should You Buy Rocket Lab Stock Below $70? | RKLB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/should-you-buy-rocket-lab-stock-below- |
+| 2026-07-20 | Distribution Solutions Group Announces Controller Buyout; Ju | DSGR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330065/0/en/Distribution- |
+| 2026-07-20 | PERSONALIS SHAREHOLDER ALERT: PSNL Shareholders Interested i | PSNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329936/0/en/PERSONALIS-SH |
 
 
 ---
