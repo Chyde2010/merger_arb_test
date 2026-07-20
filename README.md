@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-17 07:32 UTC
+**Last updated:** 2026-07-20 08:22 UTC
 
 ---
 
@@ -38,14 +38,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $13,999.21 |
-| Total return | +39.99% |
+| Current NAV | $13,988.81 |
+| Total return | +39.89% |
 | Open positions | 4 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 5 |
+| Days running | 8 |
 
 ---
 
@@ -82,7 +82,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
 | Spire Healthcare Group | Toscafund Asset Management | UK | p2.50 | p2.19 | 14.2% | +1.4% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | p5.65 | 8.9% | +0.7% | 88% | 2026-10-31 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | p5.59 | 10.0% | -0.4% | 88% | 2026-10-31 |
 | Beazley PLC | Zurich Insurance Group | UK | p13.10 | p12.88 | 1.7% | +0.1% | 96% | 2026-10-31 |
 | Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p60.00 | p58.25 | 3.0% | +3.7% | 85% | 2027-01-31 |
 
@@ -97,7 +97,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-13 | Does Vertex's Acquisition of Crinetics Pharmaceuticals Make  | VRTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/13/does-vertexs-acquisition-of-crinetics- |
 | 2026-07-13 | 3 Dividend Stocks with Growth on Tap for the Second Half | IBM | US | TBC | TBC | polygon_news | https://www.investing.com/analysis/3-dividend-stocks-with-growth-on-tap-for-the- |
 | 2026-07-14 | VEON and JazzWorld Acquire TPL Insurance to Expand Digital I | VEON | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/14/3326556/0/en/VEON-and-Jazz |
 | 2026-07-15 | Closing of Previously Announced Restructuring Transaction in | RY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327442/0/en/Closing-of-Pr |
@@ -107,11 +106,12 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-16 | Centerra Gold Announces Extension and Increase of its Corpor | CGAU | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328145/0/en/Centerra-Gold |
 | 2026-07-16 | Angelini Pharma Completes Acquisition of Catalyst Pharmaceut | CPRX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/16/3328252/0/en/Angelini-Phar |
 | 2026-07-17 | Telia Lietuva results for 6 months of 2026 | TLSNY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/17/3328903/0/en/Telia-Lietuva |
-| 2026-07-17 | ROSEN, GLOBAL INVESTOR COUNSEL, Encourages GPGI, Inc. f/k/a  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/17/3328886/673/en/ROSEN-GLOBA |
-| 2026-07-17 | Columbia Financial, Inc. Announces the Results of Its Offeri | CLBK | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/17/3328884/0/en/Columbia-Fina |
 | 2026-07-17 | Marketing Veteran Bryan Dulaney is advising SafeSpace Global | SSGC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/16/3328880/0/en/Marketing-Vet |
 | 2026-07-17 | Why AtaiBeckley Stock Soared Today | ATAI | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/16/why-ataibeckley-stock-is-up-today/?sou |
-| 2026-07-17 | IPG Photonics Announces Binding Offer to Acquire Lumibird Me | IPGP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/16/3328860/0/en/IPG-Photonics |
+| 2026-07-20 | Could Pfizer Ultimately Be the Biggest Winner in the $100 Bi | PFE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/could-pfizer-ultimately-be-the-biggest |
+| 2026-07-20 | Cribl acquiert CardinalOps pour étendre sa plateforme d'IA a | PANW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329449/0/fr/Cribl-acquier |
+| 2026-07-20 | EVA LIVE TARGETS A $3 TRILLION GLOBAL DEFENSE, SATELLITE AND | GOAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329416/0/en/EVA-LIVE-TARG |
+| 2026-07-20 | ROSEN, A RANKED AND LEADING LAW FIRM, Encourages GPGI, Inc.  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/19/3329403/673/en/ROSEN-A-RAN |
 
 
 ---
