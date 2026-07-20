@@ -585,17 +585,22 @@ if new_alerts:
 # NAV = sum of all open position values + cash
 # Cash = starting NAV minus sum of all entry position values
 if len(open_deals) > 0:
-    invested = open_deals['position_value'].astype(float).sum()
-    # Recalculate from deals_df (updated prices)
-    open_updated = deals_df[deals_df['status'] == 'open']
-    invested_updated = open_updated['position_value'].astype(float).sum() if len(open_updated) > 0 else 0
+    # Recalculate NAV from scratch using entry costs and unrealised P&L
+    # This avoids inheriting bad position_value figures from previous runs
+    open_updated = deals_df[deals_df['status'].astype(str).str.strip() == 'open'].copy()
 
-    # Calculate cash: starting NAV minus all money ever deployed (entry values)
-    all_entry_values = deals_df[deals_df['status'].isin(['open', 'closed'])]['position_value'].astype(float)
-    # Simpler: track cash separately in state
-    if 'cash' not in state:
-        state['cash'] = STARTING_NAV
-    nav = float(state['cash']) + invested_updated
+    total_invested = 0
+    total_current  = 0
+    for _, d in open_updated.iterrows():
+        entry_p = float(d['entry_price'])  if pd.notna(d.get('entry_price'))  else 0
+        curr_p  = float(d['current_price']) if pd.notna(d.get('current_price')) and float(d.get('current_price', 0)) != 0 else entry_p
+        shares  = float(d['shares'])        if pd.notna(d.get('shares'))       else 0
+        total_invested += entry_p * shares
+        total_current  += curr_p  * shares
+
+    # Cash = starting NAV minus total deployed at entry
+    cash = STARTING_NAV - total_invested
+    nav  = cash + total_current
 else:
     nav = state['nav']
 
