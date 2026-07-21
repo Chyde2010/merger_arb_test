@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-20 20:51 UTC
+**Last updated:** 2026-07-21 06:16 UTC
 
 ---
 
@@ -38,14 +38,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $10,042.19 |
-| Total return | +0.42% |
-| Open positions | 4 |
+| Current NAV | $10,000.00 |
+| Total return | +0.00% |
+| Open positions | 7 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 8 |
+| Days running | 9 |
 
 ---
 
@@ -81,10 +81,13 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p2.50 | p2.18 | 14.7% | +0.9% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | p5.59 | 9.9% | -0.3% | 88% | 2026-10-31 |
-| Beazley PLC | Zurich Insurance Group | UK | p13.10 | p12.88 | 1.7% | +0.1% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p60.00 | p58.20 | 3.1% | +3.6% | 85% | 2027-01-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p2.50 | — | — | — | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | — | — | — | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | p13.10 | — | — | — | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p60.00 | — | — | — | 85% | 2027-01-31 |
+| Rotork PLC | ABB Ltd | UK | p506.00 | — | — | — | 91% | 2027-03-31 |
+| easyJet PLC | Apollo Global Management | UK | p715.00 | — | — | — | 82% | 2027-02-28 |
+| Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | — | — | — | 97% | 2026-11-30 |
 
 
 ---
@@ -97,10 +100,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-15 | Closing of Previously Announced Restructuring Transaction in | RY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327442/0/en/Closing-of-Pr |
-| 2026-07-15 | Zillow Group Securities Fraud Class Action Arising from Alle | Z | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3327440/6713/en/Zillow-Gro |
-| 2026-07-15 | Cadence Design Systems vs. Synopsys: Which Technology Stock  | CDNS | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/07/14/cadence-design-systems-vs-sy |
-| 2026-07-16 | Stripe and Advent Reportedly Bid $60.50 a Share for PayPal.  | PYPL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/15/stripe-and-advent-reportedly-bid-6050- |
 | 2026-07-16 | Centerra Gold Announces Extension and Increase of its Corpor | CGAU | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328145/0/en/Centerra-Gold |
 | 2026-07-16 | Angelini Pharma Completes Acquisition of Catalyst Pharmaceut | CPRX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/16/3328252/0/en/Angelini-Phar |
 | 2026-07-17 | Telia Lietuva results for 6 months of 2026 | TLSNY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/17/3328903/0/en/Telia-Lietuva |
@@ -108,10 +107,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-17 | Why AtaiBeckley Stock Soared Today | ATAI | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/16/why-ataibeckley-stock-is-up-today/?sou |
 | 2026-07-20 | Could Pfizer Ultimately Be the Biggest Winner in the $100 Bi | PFE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/could-pfizer-ultimately-be-the-biggest |
 | 2026-07-20 | Cribl acquiert CardinalOps pour étendre sa plateforme d'IA a | PANW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329449/0/fr/Cribl-acquier |
-| 2026-07-20 | WGS DEADLINE: ROSEN, A LEADING AND LONGSTANDING FIRM, Encour | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330077/673/en/WGS-DEADLIN |
 | 2026-07-20 | Should You Buy Rocket Lab Stock Below $70? | RKLB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/should-you-buy-rocket-lab-stock-below- |
 | 2026-07-20 | Distribution Solutions Group Announces Controller Buyout; Ju | DSGR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330065/0/en/Distribution- |
 | 2026-07-20 | PERSONALIS SHAREHOLDER ALERT: PSNL Shareholders Interested i | PSNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329936/0/en/PERSONALIS-SH |
+| 2026-07-21 | Columbia Financial, Inc. Announces Completion of Second Step | CLBK | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330165/0/en/Columbia-Fina |
+| 2026-07-21 | What This Paychex Insider Filing Signals as the Company Push | PAYX | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-paychex-insider-filin |
+| 2026-07-21 | What This Burke & Herbert Filing Signals With the Stock Up 1 | BHRB | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-burke-and-herbert-fil |
+| 2026-07-21 | What This Heritage Financial Insider Move Signals With the S | HFWA | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/heritage-financial-cio-sells-33 |
+| 2026-07-21 | WGS DEADLINE: ROSEN, A LEADING AND LONGSTANDING FIRM, Encour | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330077/673/en/WGS-DEADLIN |
 
 
 ---
