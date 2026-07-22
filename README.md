@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-22 07:53 UTC
+**Last updated:** 2026-07-22 07:54 UTC
 
 ---
 
@@ -38,8 +38,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $-676,924.48 |
-| Total return | -6869.24% |
+| Current NAV | $15,092.60 |
+| Total return | +50.93% |
 | Open positions | 7 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
@@ -90,13 +90,13 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p2.24 | 11060.7% | -99.0% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p5.60 | 10882.1% | -99.0% | 88% | 2026-10-31 |
-| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p12.89 | 10062.9% | -99.0% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p58.20 | 10209.3% | -99.0% | 85% | 2027-01-31 |
-| Rotork PLC | ABB Ltd | UK | p506.00 | p4.85 | 10328.7% | -99.0% | 91% | 2027-03-31 |
-| easyJet PLC | Apollo Global Management | UK | p715.00 | p6.62 | 10693.5% | -99.0% | 82% | 2027-02-28 |
-| Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p6.64 | 10065.7% | -99.0% | 97% | 2026-11-30 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p224.00 | 11.6% | +3.7% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p560.00 | 9.8% | -0.2% | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1289.00 | 1.6% | +0.2% | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5820.00 | 3.1% | +3.6% | 85% | 2027-01-31 |
+| Rotork PLC | ABB Ltd | UK | p506.00 | p485.20 | 4.3% | +0.0% | 91% | 2027-03-31 |
+| easyJet PLC | Apollo Global Management | UK | p715.00 | p662.80 | 7.9% | -1.8% | 82% | 2027-02-28 |
+| Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p664.00 | 1.7% | -0.3% | 97% | 2026-11-30 |
 
 
 ---
