@@ -599,9 +599,16 @@ if len(open_deals) > 0:
     total_invested = 0
     total_current  = 0
     for _, d in open_updated.iterrows():
-        entry_p = float(d['entry_price'])  if pd.notna(d.get('entry_price'))  else 0
+        entry_p = float(d['entry_price'])   if pd.notna(d.get('entry_price'))  else 0
         curr_p  = float(d['current_price']) if pd.notna(d.get('current_price')) and float(d.get('current_price', 0)) != 0 else entry_p
         shares  = float(d['shares'])        if pd.notna(d.get('shares'))       else 0
+        geo     = str(d.get('geography', '')).strip().upper()
+
+        # UK prices are stored in pence — convert to pounds for NAV calculation
+        if geo == 'UK':
+            entry_p = entry_p / 100
+            curr_p  = curr_p  / 100
+
         total_invested += entry_p * shares
         total_current  += curr_p  * shares
 
