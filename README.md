@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-21 07:53 UTC
+**Last updated:** 2026-07-22 07:47 UTC
 
 ---
 
@@ -38,14 +38,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $-286,682.65 |
-| Total return | -2966.83% |
+| Current NAV | $-676,920.80 |
+| Total return | -6869.21% |
 | Open positions | 7 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 9 |
+| Days running | 10 |
 
 ---
 
@@ -73,6 +73,13 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-16 | 🔴 SPREAD_WIDENING | Spire Healthcare Group | Spread widened +14.7pp today (0.0% -> 14.7%). Possible deal stress. |
 | 2026-07-16 | 🔴 SPREAD_WIDENING | Tate & Lyle PLC | Spread widened +9.9pp today (0.0% -> 9.9%). Possible deal stress. |
 | 2026-07-16 | 🔴 SPREAD_WIDENING | Intertek Group PLC | Spread widened +3.0pp today (0.0% -> 3.0%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | Spire Healthcare Group | Spread widened +11035.9pp today (0.0% -> 11035.9%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | Tate & Lyle PLC | Spread widened +10882.9pp today (0.0% -> 10882.9%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | Beazley PLC | Spread widened +10066.9pp today (0.0% -> 10066.9%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | Intertek Group PLC | Spread widened +10209.3pp today (0.0% -> 10209.3%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | Rotork PLC | Spread widened +10328.7pp today (0.0% -> 10328.7%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | easyJet PLC | Spread widened +10694.1pp today (0.0% -> 10694.1%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | Ramsdens Holdings PLC | Spread widened +10046.6pp today (0.0% -> 10046.6%). Possible deal stress. |
 
 
 ---
@@ -81,12 +88,12 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p2.50 | p2.19 | 14.4% | +1.2% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p6.15 | p5.60 | 9.8% | -0.2% | 88% | 2026-10-31 |
-| Beazley PLC | Zurich Insurance Group | UK | p13.10 | p12.88 | 1.7% | +0.1% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p60.00 | p58.24 | 3.0% | +3.7% | 85% | 2027-01-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p2.25 | 11035.9% | -99.0% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p5.60 | 10882.9% | -99.0% | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p12.88 | 10066.9% | -99.0% | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p58.20 | 10209.3% | -99.0% | 85% | 2027-01-31 |
 | Rotork PLC | ABB Ltd | UK | p506.00 | p4.85 | 10328.7% | -99.0% | 91% | 2027-03-31 |
-| easyJet PLC | Apollo Global Management | UK | p715.00 | p6.65 | 10656.0% | -99.0% | 82% | 2027-02-28 |
+| easyJet PLC | Apollo Global Management | UK | p715.00 | p6.62 | 10694.1% | -99.0% | 82% | 2027-02-28 |
 | Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p6.65 | 10046.6% | -99.0% | 97% | 2026-11-30 |
 
 
@@ -113,8 +120,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-21 | What This Paychex Insider Filing Signals as the Company Push | PAYX | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-paychex-insider-filin |
 | 2026-07-21 | What This Burke & Herbert Filing Signals With the Stock Up 1 | BHRB | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-burke-and-herbert-fil |
 | 2026-07-21 | What This Heritage Financial Insider Move Signals With the S | HFWA | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/heritage-financial-cio-sells-33 |
-| 2026-07-21 | Columbia Financial, Inc. Announces Completion of Second Step | CLBK | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330165/0/en/Columbia-Fina |
-| 2026-07-21 | WGS DEADLINE: ROSEN, A LEADING AND LONGSTANDING FIRM, Encour | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330077/673/en/WGS-DEADLIN |
+| 2026-07-22 | GeneDx Holdings Securities Fraud Class Action Result of Acqu | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/22/3331055/6713/en/GeneDx-Hol |
+| 2026-07-22 | 3 Reasons to Buy AbbVie Stock Like There's No Tomorrow | ABBV | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/21/3-reasons-to-buy-abbvie-stock-like-the |
 
 
 ---
