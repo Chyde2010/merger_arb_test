@@ -481,12 +481,19 @@ if len(open_deals) > 0:
             hist = yf.Ticker(ticker).history(period='5d', auto_adjust=True)
             if not hist.empty:
                 raw_price = float(hist['Close'].iloc[-1])
-                # yfinance returns UK .L stocks in GBX (pence)
-                # Our CSV stores prices in pounds (2.50 = 250p)
-                # So divide yfinance pence price by 100 to get pounds
+                # yfinance returns UK .L stocks inconsistently
+                # Test whether price looks like pounds or pence
+                # by comparing to the deal_price in CSV (stored in pence)
+                # If raw_price is ~100x smaller than deal_price, multiply by 100
+                stored_deal_price = float(deal['deal_price']) if pd.notna(deal.get('deal_price')) else 0
                 deal_geo = str(deal.get('geography', '')).strip().upper()
-                if deal_geo == 'UK':
-                    current_price = raw_price / 100
+                if deal_geo == 'UK' and stored_deal_price > 0:
+                    # If raw_price is more than 50x smaller than deal_price
+                    # yfinance returned pounds — convert to pence
+                    if raw_price * 100 < stored_deal_price * 2:
+                        current_price = raw_price * 100
+                    else:
+                        current_price = raw_price
                 else:
                     current_price = raw_price
 
