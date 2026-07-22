@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-22 07:58 UTC
+**Last updated:** 2026-07-22 08:10 UTC
 
 ---
 
@@ -38,9 +38,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $10,049.87 |
-| Total return | +0.50% |
-| Open positions | 7 |
+| Current NAV | $10,077.32 |
+| Total return | +0.77% |
+| Open positions | 8 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
@@ -82,6 +82,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-22 | 🔴 SPREAD_WIDENING | Ramsdens Holdings PLC | Spread widened +10046.6pp today (0.0% -> 10046.6%). Possible deal stress. |
 | 2026-07-22 | 🔴 SPREAD_WIDENING | Spire Healthcare Group | Spread widened +24.9pp today (11035.9% -> 11060.7%). Possible deal stress. |
 | 2026-07-22 | 🔴 SPREAD_WIDENING | Ramsdens Holdings PLC | Spread widened +19.1pp today (10046.6% -> 10065.7%). Possible deal stress. |
+| 2026-07-22 | 🔴 SPREAD_WIDENING | DCC PLC | Spread widened +7.7pp today (0.0% -> 7.7%). Possible deal stress. |
 
 
 ---
@@ -90,13 +91,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p223.50 | 11.9% | +3.5% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p560.00 | 9.8% | -0.2% | 88% | 2026-10-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p224.50 | 11.4% | +3.9% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p559.50 | 9.9% | -0.3% | 88% | 2026-10-31 |
 | Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1289.00 | 1.6% | +0.2% | 96% | 2026-10-31 |
 | Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5820.00 | 3.1% | +3.6% | 85% | 2027-01-31 |
 | Rotork PLC | ABB Ltd | UK | p506.00 | p485.20 | 4.3% | +0.0% | 91% | 2027-03-31 |
-| easyJet PLC | Apollo Global Management | UK | p715.00 | p662.37 | 8.0% | -1.9% | 82% | 2027-02-28 |
+| easyJet PLC | Apollo Global Management | UK | p715.00 | p663.80 | 7.7% | -1.7% | 82% | 2027-02-28 |
 | Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p665.26 | 1.5% | -0.1% | 97% | 2026-11-30 |
+| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6310.00 | 7.7% | +2.2% | 76% | 2027-03-31 |
 
 
 ---
