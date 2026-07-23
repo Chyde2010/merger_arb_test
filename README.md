@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-23 07:55 UTC
+**Last updated:** 2026-07-23 18:11 UTC
 
 ---
 
@@ -112,6 +112,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
+| 2026-07-20 | Could Pfizer Ultimately Be the Biggest Winner in the $100 Bi | PFE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/could-pfizer-ultimately-be-the-biggest |
+| 2026-07-20 | Cribl acquiert CardinalOps pour étendre sa plateforme d'IA a | PANW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329449/0/fr/Cribl-acquier |
 | 2026-07-20 | Should You Buy Rocket Lab Stock Below $70? | RKLB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/should-you-buy-rocket-lab-stock-below- |
 | 2026-07-20 | Distribution Solutions Group Announces Controller Buyout; Ju | DSGR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330065/0/en/Distribution- |
 | 2026-07-20 | PERSONALIS SHAREHOLDER ALERT: PSNL Shareholders Interested i | PSNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329936/0/en/PERSONALIS-SH |
@@ -124,9 +126,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-23 | Motorsport Games Adopts Limited Duration Stockholder Rights  | MSGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331833/0/en/Motorsport-Ga |
 | 2026-07-23 | TWG Announces Entry into of a Material Definitive Agreement  | TWG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331830/0/en/TWG-Announces |
 | 2026-07-23 | Union Pacific et le CN concluent une entente visant à élargi | UNP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331823/0/fr/Union-Pacific |
-| 2026-07-23 | Michelin: Disclosure of trading in own shares - July 23rd, 2 | MGDDY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331890/0/en/Michelin-Disc |
-| 2026-07-23 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages GPGI, Inc. f/k/ | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331824/673/en/ROSEN-TOP-R |
-| 2026-07-23 | Northrim BanCorp, Inc. Signs Definitive Agreement to Acquire | NRIM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/22/3331817/8875/en/Northrim-B |
+| 2026-07-23 | SINTX Technologies Engages Veteran MedTech Executive Chris L | SINT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3332173/30038/en/SINTX-Tec |
 
 
 ---
