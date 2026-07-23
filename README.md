@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-23 05:37 UTC
+**Last updated:** 2026-07-23 05:47 UTC
 
 ---
 
@@ -123,8 +123,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-23 | Dassault Systèmes acquiert ArisGlobal pour créer une platefo | DASTY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331852/0/fr/Dassault-Syst |
 | 2026-07-23 | Motorsport Games Adopts Limited Duration Stockholder Rights  | MSGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331833/0/en/Motorsport-Ga |
 | 2026-07-23 | TWG Announces Entry into of a Material Definitive Agreement  | TWG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331830/0/en/TWG-Announces |
-| 2026-07-23 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages GPGI, Inc. f/k/ | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331824/673/en/ROSEN-TOP-R |
 | 2026-07-23 | Union Pacific et le CN concluent une entente visant à élargi | UNP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331823/0/fr/Union-Pacific |
+| 2026-07-23 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages GPGI, Inc. f/k/ | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331824/673/en/ROSEN-TOP-R |
 | 2026-07-23 | Northrim BanCorp, Inc. Signs Definitive Agreement to Acquire | NRIM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/22/3331817/8875/en/Northrim-B |
 
 
