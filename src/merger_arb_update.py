@@ -479,98 +479,52 @@ if len(open_deals) > 0:
         # Fetch current price
         try:
             hist = yf.Ticker(ticker).history(period='5d', auto_adjust=True)
-            if not hist.empty:
+            if not hist.empty and len(hist) > 0:
                 raw_price = float(hist['Close'].iloc[-1])
-                # yfinance returns UK .L stocks inconsistently
-                # Test whether price looks like pounds or pence
-                # by comparing to the deal_price in CSV (stored in pence)
-                # If raw_price is ~100x smaller than deal_price, multiply by 100
-                stored_deal_price = float(deal['deal_price']) if pd.notna(deal.get('deal_price')) else 0
-                deal_geo = str(deal.get('geography', '')).strip().upper()
-                if deal_geo == 'UK' and stored_deal_price > 0:
-                    # If raw_price is more than 50x smaller than deal_price
-                    # yfinance returned pounds — convert to pence
-                    if raw_price * 100 < stored_deal_price * 2:
-                        current_price = raw_price * 100
+
+                # Skip if NaN returned — fall back to previous stored price
+                if np.isnan(raw_price) or raw_price <= 0:
+                    raw_price = None
+
+            else:
+                raw_price = None
+
+            # Fallback: use previous stored price if yfinance failed
+            if raw_price is None:
+                prev = float(deal.get('current_price', 0)) if pd.notna(deal.get('current_price')) else 0
+                if prev > 0:
+                    raw_price = prev
+                    print(f'  {deal["target"]}: yfinance unavailable — using previous p{prev:.2f}')
+                else:
+                    print(f'  {deal["target"]}: no price data — skipping')
+                    continue
+
+                if raw_price:
+                    stored_deal_price = float(deal['deal_price']) if pd.notna(deal.get('deal_price')) else 0
+                    deal_geo = str(deal.get('geography', '')).strip().upper()
+                    if deal_geo == 'UK' and stored_deal_price > 0:
+                        if raw_price * 100 < stored_deal_price * 2:
+                            current_price = raw_price * 100
+                        else:
+                            current_price = raw_price
                     else:
                         current_price = raw_price
-                else:
-                    current_price = raw_price
 
-                current_spread = ((deal_price - current_price) / current_price) * 100
-                entry_price    = float(deal['entry_price']) if pd.notna(deal.get('entry_price')) else current_price
-                unrealised_pct = ((current_price - entry_price) / entry_price) * 100
+                    current_spread = ((deal_price - current_price) / current_price) * 100
+                    entry_price    = float(deal['entry_price']) if pd.notna(deal.get('entry_price')) else current_price
+                    unrealised_pct = ((current_price - entry_price) / entry_price) * 100
 
-                # Update deal row
-                deals_df.at[idx, 'current_price']      = round(current_price, 4)
-                deals_df.at[idx, 'current_spread_pct'] = round(current_spread, 2)
-                deals_df.at[idx, 'unrealised_pct']     = round(unrealised_pct, 2)
+                    deals_df.at[idx, 'current_price']      = round(current_price, 4)
+                    deals_df.at[idx, 'current_spread_pct'] = round(current_spread, 2)
+                    deals_df.at[idx, 'unrealised_pct']     = round(unrealised_pct, 2)
 
-                # Update position value (shares x current price)
-                shares = float(deal['shares']) if pd.notna(deal.get('shares')) else 0
-                deals_df.at[idx, 'position_value'] = round(current_price * shares, 2)
+                    shares = float(deal['shares']) if pd.notna(deal.get('shares')) else 0
+                    deals_df.at[idx, 'position_value'] = round(current_price * shares, 2)
 
-                print(f'  {deal["target"]}: ${current_price:.2f} | spread: {current_spread:+.2f}% | P&L: {unrealised_pct:+.2f}%')
-
-                # ALERT 1: Spread widening
-                if prev_spread is not None:
-                    spread_change = current_spread - prev_spread
-                    if spread_change > SPREAD_ALERT_PP:
-                        alert = {
-                            'date':       str(today),
-                            'deal_id':    deal['deal_id'],
-                            'target':     deal['target'],
-                            'alert_type': 'SPREAD_WIDENING',
-                            'detail':     f'Spread widened {spread_change:+.1f}pp today ({prev_spread:.1f}% -> {current_spread:.1f}%). Possible deal stress.',
-                            'resolved':   'No',
-                        }
-                        new_alerts.append(alert)
-                        print(f'  *** ALERT: {deal["target"]} spread widened {spread_change:+.1f}pp ***')
-
-                # ALERT 2: Negative spread (target above offer price — unusual)
-                if current_spread < -0.5:
-                    alert = {
-                        'date':       str(today),
-                        'deal_id':    deal['deal_id'],
-                        'target':     deal['target'],
-                        'alert_type': 'NEGATIVE_SPREAD',
-                        'detail':     f'Target trading ABOVE deal price (spread: {current_spread:.1f}%). Possible competing bid or deal re-rating.',
-                        'resolved':   'No',
-                    }
-                    new_alerts.append(alert)
-                    print(f'  *** ALERT: {deal["target"]} negative spread — target above offer price ***')
+                    print(f'  {deal["target"]}: p{current_price:.2f} | spread: {current_spread:+.2f}% | P&L: {unrealised_pct:+.2f}%')
 
         except Exception as e:
             print(f'  {deal["target"]}: price fetch error — {e}')
-        time.sleep(0.5)
-
-        # ALERT 3: Time stop — deal running late
-        expected_close = deal.get('expected_close')
-        if expected_close and pd.notna(expected_close):
-            try:
-                close_date = date.fromisoformat(str(expected_close)[:10])
-                days_late  = (today - close_date).days
-                if days_late > TIME_STOP_DAYS:
-                    # Only alert if not already alerted recently
-                    recent_alerts = alerts_df[
-                        (alerts_df['deal_id'].astype(str) == str(deal['deal_id'])) &
-                        (alerts_df['alert_type'] == 'TIME_STOP')
-                    ] if len(alerts_df) > 0 else pd.DataFrame()
-
-                    if len(recent_alerts) == 0 or \
-                       (today - date.fromisoformat(str(recent_alerts.iloc[-1]['date']))).days > 7:
-                        alert = {
-                            'date':       str(today),
-                            'deal_id':    deal['deal_id'],
-                            'target':     deal['target'],
-                            'alert_type': 'TIME_STOP',
-                            'detail':     f'Deal is {days_late} days past expected close ({expected_close}). Review position.',
-                            'resolved':   'No',
-                        }
-                        new_alerts.append(alert)
-                        print(f'  *** ALERT: {deal["target"]} is {days_late} days past expected close ***')
-            except Exception:
-                pass
 
 else:
     print('  No open positions to update')
