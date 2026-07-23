@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-23 06:03 UTC
+**Last updated:** 2026-07-23 06:25 UTC
 
 ---
 
@@ -40,7 +40,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Starting NAV | $10,000.00 |
 | Current NAV | $9,945.78 |
 | Total return | -0.54% |
-| Open positions | 8 |
+| Open positions | 9 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
@@ -99,6 +99,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | easyJet PLC | Apollo Global Management | UK | p715.00 | p585.00 | 22.2% | -13.3% | 82% | 2027-02-28 |
 | Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p666.00 | 1.4% | — | 97% | 2026-11-30 |
 | DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6295.00 | 8.0% | +1.9% | 76% | 2027-03-31 |
+| Capricorn Energy PLC | Genel Energy No.9 Limited | UK | p357.00 | — | — | — | 92% | 2026-10-31 |
 
 
 ---
