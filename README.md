@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-23 18:11 UTC
+**Last updated:** 2026-07-23 19:05 UTC
 
 ---
 
@@ -38,8 +38,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $9,945.78 |
-| Total return | -0.54% |
+| Current NAV | $10,065.48 |
+| Total return | +0.65% |
 | Open positions | 9 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
@@ -91,15 +91,15 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p222.00 | 12.6% | +2.8% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p559.00 | 10.0% | -0.4% | 88% | 2026-10-31 |
-| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1288.00 | 1.7% | +0.1% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5820.00 | 3.1% | +3.6% | 85% | 2027-01-31 |
-| Rotork PLC | ABB Ltd | UK | p506.00 | p485.00 | 4.3% | — | 91% | 2027-03-31 |
-| easyJet PLC | Apollo Global Management | UK | p715.00 | p585.00 | 22.2% | -13.3% | 82% | 2027-02-28 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p221.00 | 13.1% | +2.3% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p557.00 | 10.4% | -0.7% | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1288.50 | 1.7% | +0.1% | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5815.00 | 3.2% | +3.6% | 85% | 2027-01-31 |
+| Rotork PLC | ABB Ltd | UK | p506.00 | p485.20 | 4.3% | +0.0% | 91% | 2027-03-31 |
+| easyJet PLC | Apollo Global Management | UK | p715.00 | p613.40 | 16.6% | -9.1% | 82% | 2027-02-28 |
 | Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p666.00 | 1.4% | — | 97% | 2026-11-30 |
-| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6295.00 | 8.0% | +1.9% | 76% | 2027-03-31 |
-| Capricorn Energy PLC | Genel Energy No.9 Limited | UK | p357.00 | — | — | — | 92% | 2026-10-31 |
+| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6290.00 | 8.1% | +1.9% | 76% | 2027-03-31 |
+| Capricorn Energy PLC | Genel Energy No.9 Limited | UK | p357.00 | p375.00 | -5.0% | +8.7% | 92% | 2026-10-31 |
 
 
 ---
