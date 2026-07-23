@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-22 08:10 UTC
+**Last updated:** 2026-07-23 05:37 UTC
 
 ---
 
@@ -38,14 +38,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $10,077.32 |
-| Total return | +0.77% |
+| Current NAV | $10,000.00 |
+| Total return | +0.00% |
 | Open positions | 8 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 10 |
+| Days running | 11 |
 
 ---
 
@@ -91,14 +91,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p224.50 | 11.4% | +3.9% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p559.50 | 9.9% | -0.3% | 88% | 2026-10-31 |
-| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1289.00 | 1.6% | +0.2% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5820.00 | 3.1% | +3.6% | 85% | 2027-01-31 |
-| Rotork PLC | ABB Ltd | UK | p506.00 | p485.20 | 4.3% | +0.0% | 91% | 2027-03-31 |
-| easyJet PLC | Apollo Global Management | UK | p715.00 | p663.80 | 7.7% | -1.7% | 82% | 2027-02-28 |
-| Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p665.26 | 1.5% | -0.1% | 97% | 2026-11-30 |
-| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6310.00 | 7.7% | +2.2% | 76% | 2027-03-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | — | — | — | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | — | — | — | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | — | — | — | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | — | — | — | 85% | 2027-01-31 |
+| Rotork PLC | ABB Ltd | UK | p506.00 | — | — | — | 91% | 2027-03-31 |
+| easyJet PLC | Apollo Global Management | UK | p715.00 | — | — | — | 82% | 2027-02-28 |
+| Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | — | — | — | 97% | 2026-11-30 |
+| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | — | — | — | 76% | 2027-03-31 |
 
 
 ---
@@ -111,12 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-16 | Centerra Gold Announces Extension and Increase of its Corpor | CGAU | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/15/3328145/0/en/Centerra-Gold |
-| 2026-07-16 | Angelini Pharma Completes Acquisition of Catalyst Pharmaceut | CPRX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/16/3328252/0/en/Angelini-Phar |
-| 2026-07-17 | Telia Lietuva results for 6 months of 2026 | TLSNY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/17/3328903/0/en/Telia-Lietuva |
-| 2026-07-17 | Marketing Veteran Bryan Dulaney is advising SafeSpace Global | SSGC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/16/3328880/0/en/Marketing-Vet |
-| 2026-07-17 | Why AtaiBeckley Stock Soared Today | ATAI | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/16/why-ataibeckley-stock-is-up-today/?sou |
-| 2026-07-20 | Could Pfizer Ultimately Be the Biggest Winner in the $100 Bi | PFE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/could-pfizer-ultimately-be-the-biggest |
 | 2026-07-20 | Cribl acquiert CardinalOps pour étendre sa plateforme d'IA a | PANW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329449/0/fr/Cribl-acquier |
 | 2026-07-20 | Should You Buy Rocket Lab Stock Below $70? | RKLB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/should-you-buy-rocket-lab-stock-below- |
 | 2026-07-20 | Distribution Solutions Group Announces Controller Buyout; Ju | DSGR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330065/0/en/Distribution- |
@@ -126,6 +120,12 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-21 | What This Heritage Financial Insider Move Signals With the S | HFWA | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/heritage-financial-cio-sells-33 |
 | 2026-07-22 | GeneDx Holdings Securities Fraud Class Action Result of Acqu | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/22/3331055/6713/en/GeneDx-Hol |
 | 2026-07-22 | 3 Reasons to Buy AbbVie Stock Like There's No Tomorrow | ABBV | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/21/3-reasons-to-buy-abbvie-stock-like-the |
+| 2026-07-23 | Dassault Systèmes acquiert ArisGlobal pour créer une platefo | DASTY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331852/0/fr/Dassault-Syst |
+| 2026-07-23 | Motorsport Games Adopts Limited Duration Stockholder Rights  | MSGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331833/0/en/Motorsport-Ga |
+| 2026-07-23 | TWG Announces Entry into of a Material Definitive Agreement  | TWG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331830/0/en/TWG-Announces |
+| 2026-07-23 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages GPGI, Inc. f/k/ | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331824/673/en/ROSEN-TOP-R |
+| 2026-07-23 | Union Pacific et le CN concluent une entente visant à élargi | UNP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331823/0/fr/Union-Pacific |
+| 2026-07-23 | Northrim BanCorp, Inc. Signs Definitive Agreement to Acquire | NRIM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/22/3331817/8875/en/Northrim-B |
 
 
 ---
