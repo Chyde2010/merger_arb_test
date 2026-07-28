@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-27 08:53 UTC
+**Last updated:** 2026-07-28 07:58 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 15 |
+| Days running | 16 |
 
 ---
 
@@ -112,8 +112,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-20 | Should You Buy Rocket Lab Stock Below $70? | RKLB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/20/should-you-buy-rocket-lab-stock-below- |
-| 2026-07-20 | Distribution Solutions Group Announces Controller Buyout; Ju | DSGR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3330065/0/en/Distribution- |
 | 2026-07-20 | PERSONALIS SHAREHOLDER ALERT: PSNL Shareholders Interested i | PSNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329936/0/en/PERSONALIS-SH |
 | 2026-07-21 | What This Paychex Insider Filing Signals as the Company Push | PAYX | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-paychex-insider-filin |
 | 2026-07-21 | What This Burke & Herbert Filing Signals With the Stock Up 1 | BHRB | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-burke-and-herbert-fil |
@@ -127,6 +125,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-23 | SINTX Technologies Engages Veteran MedTech Executive Chris L | SINT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3332173/30038/en/SINTX-Tec |
 | 2026-07-27 | Netflix Is Down 41% in 1 Year. Could the Sell-Off Be Nearing | NFLX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/27/netflix-is-down-43-in-1-year-could-the |
 | 2026-07-27 | Baker Hughes Declares Quarterly Dividend | BKR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/26/3333227/0/en/Baker-Hughes- |
+| 2026-07-28 | Catalyst Acquisition Corp. Announces Pricing of $200 Million | SAN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/28/3333959/0/en/Catalyst-Acqu |
+| 2026-07-28 | ROSEN, LEADING TRIAL ATTORNEYS, Encourages Planet Fitness, I | PLNT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/27/3333937/673/en/ROSEN-LEADI |
 
 
 ---
