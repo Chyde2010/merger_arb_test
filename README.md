@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-28 07:58 UTC
+**Last updated:** 2026-07-29 08:03 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 16 |
+| Days running | 17 |
 
 ---
 
@@ -112,8 +112,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-20 | PERSONALIS SHAREHOLDER ALERT: PSNL Shareholders Interested i | PSNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/20/3329936/0/en/PERSONALIS-SH |
-| 2026-07-21 | What This Paychex Insider Filing Signals as the Company Push | PAYX | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-paychex-insider-filin |
 | 2026-07-21 | What This Burke & Herbert Filing Signals With the Stock Up 1 | BHRB | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/what-this-burke-and-herbert-fil |
 | 2026-07-21 | What This Heritage Financial Insider Move Signals With the S | HFWA | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/heritage-financial-cio-sells-33 |
 | 2026-07-22 | GeneDx Holdings Securities Fraud Class Action Result of Acqu | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/22/3331055/6713/en/GeneDx-Hol |
@@ -126,7 +124,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-27 | Netflix Is Down 41% in 1 Year. Could the Sell-Off Be Nearing | NFLX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/27/netflix-is-down-43-in-1-year-could-the |
 | 2026-07-27 | Baker Hughes Declares Quarterly Dividend | BKR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/26/3333227/0/en/Baker-Hughes- |
 | 2026-07-28 | Catalyst Acquisition Corp. Announces Pricing of $200 Million | SAN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/28/3333959/0/en/Catalyst-Acqu |
-| 2026-07-28 | ROSEN, LEADING TRIAL ATTORNEYS, Encourages Planet Fitness, I | PLNT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/27/3333937/673/en/ROSEN-LEADI |
+| 2026-07-29 | Danone: Strong Q2 performance and solid H1 results, demonstr | DANOY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/29/3334969/0/en/Danone-Strong |
+| 2026-07-29 | Sanoma Oyj, Puolivuosikatsaus 1.1.-30.6.2026: Hyvä ensimmäin | SWYBY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/29/3334967/0/fi/Sanoma-Oyj-Pu |
+| 2026-07-29 | GPGI SHAREHOLDER ALERT: Securities Fraud Lawsuit Filed on Be | RHLD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/28/3334907/937/en/GPGI-SHAREH |
 
 
 ---
