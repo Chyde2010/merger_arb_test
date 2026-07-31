@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-30 07:53 UTC
+**Last updated:** 2026-07-31 08:14 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 18 |
+| Days running | 19 |
 
 ---
 
@@ -112,9 +112,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-21 | What This Heritage Financial Insider Move Signals With the S | HFWA | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/07/20/heritage-financial-cio-sells-33 |
-| 2026-07-22 | GeneDx Holdings Securities Fraud Class Action Result of Acqu | WGS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/22/3331055/6713/en/GeneDx-Hol |
-| 2026-07-22 | 3 Reasons to Buy AbbVie Stock Like There's No Tomorrow | ABBV | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/21/3-reasons-to-buy-abbvie-stock-like-the |
 | 2026-07-23 | Dassault Systèmes acquiert ArisGlobal pour créer une platefo | DASTY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331852/0/fr/Dassault-Syst |
 | 2026-07-23 | Motorsport Games Adopts Limited Duration Stockholder Rights  | MSGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331833/0/en/Motorsport-Ga |
 | 2026-07-23 | TWG Announces Entry into of a Material Definitive Agreement  | TWG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331830/0/en/TWG-Announces |
@@ -123,10 +120,13 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-27 | Netflix Is Down 41% in 1 Year. Could the Sell-Off Be Nearing | NFLX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/27/netflix-is-down-43-in-1-year-could-the |
 | 2026-07-27 | Baker Hughes Declares Quarterly Dividend | BKR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/26/3333227/0/en/Baker-Hughes- |
 | 2026-07-28 | Catalyst Acquisition Corp. Announces Pricing of $200 Million | SAN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/28/3333959/0/en/Catalyst-Acqu |
-| 2026-07-30 | Halper Sadeh LLC is Investigating Whether UTZ, BLFS, NRIM ar | UTZ | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/30/3335714/0/en/Halper-Sadeh- |
 | 2026-07-30 | Why Lithia Stock Surged Today | LAD | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/29/why-lithia-stock-surged-today/?source= |
 | 2026-07-30 | California Water Service Group Reports Strong Second Quarter | CWT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/30/3335697/0/en/California-Wa |
 | 2026-07-30 | Sprott Physical Copper Trust Updates Its “At-The-Market” Equ | SII | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/29/3335686/0/en/Sprott-Physic |
+| 2026-07-31 | Bekaert: Update over het Inkoopprogramma van Eigen Aandelen  | BEKAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336610/0/nl/Bekaert-Updat |
+| 2026-07-31 | ROSEN, TOP-RANKED INVESTOR COUNSEL, Encourages Planet Fitnes | PLNT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336576/673/en/ROSEN-TOP-R |
+| 2026-07-31 | Announcement of Private Exchange Offer for Any and All of CS | SID | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336571/0/en/Announcement- |
+| 2026-07-31 | Digital Asset Acquisition Corp. Announces Postponement of Sh | DAAQ | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336567/0/en/Digital-Asset |
 
 
 ---
