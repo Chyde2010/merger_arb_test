@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-07-31 08:14 UTC
+**Last updated:** 2026-08-02 08:37 UTC
 
 ---
 
@@ -38,14 +38,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $10,065.48 |
-| Total return | +0.65% |
+| Current NAV | $10,130.70 |
+| Total return | +1.31% |
 | Open positions | 9 |
 | Closed positions | 0 |
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 19 |
+| Days running | 21 |
 
 ---
 
@@ -91,15 +91,15 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p221.00 | 13.1% | +2.3% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p557.00 | 10.4% | -0.7% | 88% | 2026-10-31 |
-| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1288.50 | 1.7% | +0.1% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5815.00 | 3.2% | +3.6% | 85% | 2027-01-31 |
-| Rotork PLC | ABB Ltd | UK | p506.00 | p485.20 | 4.3% | +0.0% | 91% | 2027-03-31 |
-| easyJet PLC | Apollo Global Management | UK | p715.00 | p613.40 | 16.6% | -9.1% | 82% | 2027-02-28 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p233.50 | 7.1% | +8.1% | 72% | 2026-11-30 |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p554.00 | 11.0% | -1.2% | 88% | 2026-10-31 |
+| Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1290.50 | 1.5% | +0.3% | 96% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5840.00 | 2.7% | +4.0% | 85% | 2027-01-31 |
+| Rotork PLC | ABB Ltd | UK | p506.00 | p486.20 | 4.1% | +0.2% | 91% | 2027-03-31 |
+| easyJet PLC | Apollo Global Management | UK | p715.00 | p630.00 | 13.5% | -6.7% | 82% | 2027-02-28 |
 | Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p666.00 | 1.4% | — | 97% | 2026-11-30 |
-| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6290.00 | 8.1% | +1.9% | 76% | 2027-03-31 |
-| Capricorn Energy PLC | Genel Energy No.9 Limited | UK | p357.00 | p375.00 | -5.0% | +8.7% | 92% | 2026-10-31 |
+| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6330.00 | 7.4% | +2.5% | 76% | 2027-03-31 |
+| Capricorn Energy PLC | Genel Energy No.9 Limited | UK | p357.00 | p366.00 | -2.5% | +6.1% | 92% | 2026-10-31 |
 
 
 ---
@@ -112,9 +112,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-23 | Dassault Systèmes acquiert ArisGlobal pour créer une platefo | DASTY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331852/0/fr/Dassault-Syst |
-| 2026-07-23 | Motorsport Games Adopts Limited Duration Stockholder Rights  | MSGM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331833/0/en/Motorsport-Ga |
-| 2026-07-23 | TWG Announces Entry into of a Material Definitive Agreement  | TWG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331830/0/en/TWG-Announces |
 | 2026-07-23 | Union Pacific et le CN concluent une entente visant à élargi | UNP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331823/0/fr/Union-Pacific |
 | 2026-07-23 | SINTX Technologies Engages Veteran MedTech Executive Chris L | SINT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3332173/30038/en/SINTX-Tec |
 | 2026-07-27 | Netflix Is Down 41% in 1 Year. Could the Sell-Off Be Nearing | NFLX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/27/netflix-is-down-43-in-1-year-could-the |
@@ -124,9 +121,12 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-30 | California Water Service Group Reports Strong Second Quarter | CWT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/30/3335697/0/en/California-Wa |
 | 2026-07-30 | Sprott Physical Copper Trust Updates Its “At-The-Market” Equ | SII | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/29/3335686/0/en/Sprott-Physic |
 | 2026-07-31 | Bekaert: Update over het Inkoopprogramma van Eigen Aandelen  | BEKAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336610/0/nl/Bekaert-Updat |
-| 2026-07-31 | ROSEN, TOP-RANKED INVESTOR COUNSEL, Encourages Planet Fitnes | PLNT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336576/673/en/ROSEN-TOP-R |
 | 2026-07-31 | Announcement of Private Exchange Offer for Any and All of CS | SID | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336571/0/en/Announcement- |
 | 2026-07-31 | Digital Asset Acquisition Corp. Announces Postponement of Sh | DAAQ | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336567/0/en/Digital-Asset |
+| 2026-08-02 | This Aerospace Stock Is Cheap, But Does That Make It a Buy T | ACHR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/01/this-aerospace-stock-is-cheap-but-does |
+| 2026-08-02 | Shareholders who lost money in shares of GPGI, Inc. (NYSE: G | RHLD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337143/6819/en/Shareholde |
+| 2026-08-02 | Passive Income Play: Own This Many Chevron Shares for $1,000 | CVX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/01/passive-income-play-own-chevron-stock- |
+| 2026-08-02 | Scripps completes acquisition of WTVQ in Lexington | SSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337133/0/en/Scripps-compl |
 
 
 ---
