@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-02 08:37 UTC
+**Last updated:** 2026-08-03 08:47 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 21 |
+| Days running | 22 |
 
 ---
 
@@ -123,10 +123,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-07-31 | Bekaert: Update over het Inkoopprogramma van Eigen Aandelen  | BEKAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336610/0/nl/Bekaert-Updat |
 | 2026-07-31 | Announcement of Private Exchange Offer for Any and All of CS | SID | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336571/0/en/Announcement- |
 | 2026-07-31 | Digital Asset Acquisition Corp. Announces Postponement of Sh | DAAQ | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336567/0/en/Digital-Asset |
-| 2026-08-02 | This Aerospace Stock Is Cheap, But Does That Make It a Buy T | ACHR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/01/this-aerospace-stock-is-cheap-but-does |
-| 2026-08-02 | Shareholders who lost money in shares of GPGI, Inc. (NYSE: G | RHLD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337143/6819/en/Shareholde |
-| 2026-08-02 | Passive Income Play: Own This Many Chevron Shares for $1,000 | CVX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/01/passive-income-play-own-chevron-stock- |
 | 2026-08-02 | Scripps completes acquisition of WTVQ in Lexington | SSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337133/0/en/Scripps-compl |
+| 2026-08-03 | Share repurchase programme: Transactions of week 31 2026 | JYSKY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/03/3337214/0/en/Share-repurch |
+| 2026-08-03 | SoundHound AI's Next Earnings Report on Aug. 5 Could Send th | SOUN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/02/soundhound-ais-next-earnings-report-on |
+| 2026-08-03 | ROSEN, A LEADING LAW FIRM, Encourages Planet Fitness, Inc. I | PLNT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/02/3337185/673/en/ROSEN-A-LEA |
 
 
 ---
