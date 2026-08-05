@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-04 07:59 UTC
+**Last updated:** 2026-08-05 08:00 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 23 |
+| Days running | 24 |
 
 ---
 
@@ -112,6 +112,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
+| 2026-07-23 | Union Pacific et le CN concluent une entente visant à élargi | UNP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3331823/0/fr/Union-Pacific |
 | 2026-07-23 | SINTX Technologies Engages Veteran MedTech Executive Chris L | SINT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/23/3332173/30038/en/SINTX-Tec |
 | 2026-07-27 | Netflix Is Down 41% in 1 Year. Could the Sell-Off Be Nearing | NFLX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/27/netflix-is-down-43-in-1-year-could-the |
 | 2026-07-27 | Baker Hughes Declares Quarterly Dividend | BKR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/26/3333227/0/en/Baker-Hughes- |
@@ -125,7 +126,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-02 | Scripps completes acquisition of WTVQ in Lexington | SSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337133/0/en/Scripps-compl |
 | 2026-08-03 | Share repurchase programme: Transactions of week 31 2026 | JYSKY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/03/3337214/0/en/Share-repurch |
 | 2026-08-03 | SoundHound AI's Next Earnings Report on Aug. 5 Could Send th | SOUN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/02/soundhound-ais-next-earnings-report-on |
-| 2026-08-04 | Troutman Amin, LLP Drops Deserve to Win Podcast Ep. 44 Featu | GEN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/04/3337995/0/en/Troutman-Amin |
 | 2026-08-04 | Why Atkore Stock Soared Today | ATKR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/03/why-atkore-stock-soared-today/?source= |
 
 
