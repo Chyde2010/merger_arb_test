@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-06 07:59 UTC
+**Last updated:** 2026-08-07 06:43 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | Insufficient data |
 | Avg gain on completion | — |
 | Avg loss on break | — |
-| Days running | 25 |
+| Days running | 26 |
 
 ---
 
@@ -112,13 +112,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-28 | Catalyst Acquisition Corp. Announces Pricing of $200 Million | SAN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/28/3333959/0/en/Catalyst-Acqu |
-| 2026-07-30 | Why Lithia Stock Surged Today | LAD | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/07/29/why-lithia-stock-surged-today/?source= |
-| 2026-07-30 | California Water Service Group Reports Strong Second Quarter | CWT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/30/3335697/0/en/California-Wa |
-| 2026-07-30 | Sprott Physical Copper Trust Updates Its “At-The-Market” Equ | SII | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/29/3335686/0/en/Sprott-Physic |
-| 2026-07-31 | Bekaert: Update over het Inkoopprogramma van Eigen Aandelen  | BEKAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336610/0/nl/Bekaert-Updat |
-| 2026-07-31 | Announcement of Private Exchange Offer for Any and All of CS | SID | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336571/0/en/Announcement- |
-| 2026-07-31 | Digital Asset Acquisition Corp. Announces Postponement of Sh | DAAQ | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336567/0/en/Digital-Asset |
 | 2026-08-02 | Scripps completes acquisition of WTVQ in Lexington | SSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337133/0/en/Scripps-compl |
 | 2026-08-03 | Share repurchase programme: Transactions of week 31 2026 | JYSKY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/03/3337214/0/en/Share-repurch |
 | 2026-08-03 | SoundHound AI's Next Earnings Report on Aug. 5 Could Send th | SOUN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/02/soundhound-ais-next-earnings-report-on |
@@ -126,7 +119,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-06 | H1 2026: Record order intake for RENK with above-average inc | RKGRY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3339931/0/en/H1-2026-Recor |
 | 2026-08-06 | red violet Announces Pricing of $100 Million Underwritten Pu | RDVT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3339902/0/en/red-violet-An |
 | 2026-08-06 | Gran Tierra Energy (GTE) Q2 2026 Earnings Call | GTE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/call-transcripts/2026/08/05/gran-tierra-energy-gte |
-| 2026-08-06 | Tarsus to Report Second Quarter 2026 Financial Results on Th | TARS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3339874/0/en/Tarsus-to-Rep |
+| 2026-08-07 | TPC Group to Be Acquired by ENEOS Holdings | JXHLY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3340914/15270/en/tpc-group |
+| 2026-08-07 | SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Inv | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/spacex-and-tesla-merger-talks-are-heat |
+| 2026-08-07 | ROSEN, A TOP-RANKED LAW FIRM, Encourages GPGI, Inc. f/k/a Co | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3340898/673/en/rosen-a-top |
+| 2026-08-07 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages DNOW Inc. Inves | DNOW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3340881/673/en/ROSEN-TOP-R |
+| 2026-08-07 | Why Joby Aviation Stock Flew Higher Today | JOBY | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/why-joby-aviation-stock-flew-higher-to |
+| 2026-08-07 | Biogen Completes Acquisition of RayThera Inc. | BIIB | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/Biogen-Comple |
+| 2026-08-07 | Is Cactus Stock Still a Buy After a Board Member Shed 10,000 | WHD | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/06/is-cactus-stock-still-a-buy-aft |
+| 2026-08-07 | Why SiTime Stock Blasted Almost 27% Higher on Thursday | SITM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/why-sitime-stock-blasted-almost-27-hig |
 
 
 ---
