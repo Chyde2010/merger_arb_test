@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-07 06:43 UTC
+**Last updated:** 2026-08-08 08:01 UTC
 
 ---
 
@@ -38,14 +38,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Metric | Value |
 |--------|-------|
 | Starting NAV | $10,000.00 |
-| Current NAV | $10,130.70 |
-| Total return | +1.31% |
-| Open positions | 9 |
-| Closed positions | 0 |
-| Win rate | Insufficient data |
-| Avg gain on completion | — |
-| Avg loss on break | — |
-| Days running | 26 |
+| Current NAV | $10,235.12 |
+| Total return | +2.35% |
+| Open positions | 8 |
+| Closed positions | 1 |
+| Win rate | 0% |
+| Avg gain on completion | +0.00% |
+| Avg loss on break | -1.43% |
+| Days running | 27 |
 
 ---
 
@@ -91,15 +91,14 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Deal Price | Current | Spread | P&L | Completion % | Expected Close |
 |--------|---------|-----|-----------|---------|--------|-----|-------------|---------------|
-| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p233.50 | 7.1% | +8.1% | 72% | 2026-11-30 |
-| Tate & Lyle PLC | Ingredion Incorporated | UK | p615.00 | p554.00 | 11.0% | -1.2% | 88% | 2026-10-31 |
+| Spire Healthcare Group | Toscafund Asset Management | UK | p250.00 | p234.00 | 6.8% | +8.3% | 72% | 2026-11-30 |
 | Beazley PLC | Zurich Insurance Group | UK | p1310.00 | p1290.50 | 1.5% | +0.3% | 96% | 2026-10-31 |
-| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5840.00 | 2.7% | +4.0% | 85% | 2027-01-31 |
-| Rotork PLC | ABB Ltd | UK | p506.00 | p486.20 | 4.1% | +0.2% | 91% | 2027-03-31 |
-| easyJet PLC | Apollo Global Management | UK | p715.00 | p630.00 | 13.5% | -6.7% | 82% | 2027-02-28 |
-| Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p666.00 | 1.4% | — | 97% | 2026-11-30 |
-| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6330.00 | 7.4% | +2.5% | 76% | 2027-03-31 |
-| Capricorn Energy PLC | Genel Energy No.9 Limited | UK | p357.00 | p366.00 | -2.5% | +6.1% | 92% | 2026-10-31 |
+| Intertek Group PLC | EQT AB (Isotope Bidco) | UK | p6000.00 | p5840.00 | 2.7% | +4.0% | 95% | 2027-01-31 |
+| Rotork PLC | ABB Ltd | UK | p506.00 | p487.00 | 3.9% | +0.4% | 91% | 2027-03-31 |
+| easyJet PLC | Castlelake LP | UK | p690.00 | p671.00 | 2.8% | -0.6% | 88% | 2027-02-28 |
+| Ramsdens Holdings PLC | FirstCash Holdings Inc | UK | p675.00 | p664.00 | 1.7% | -0.3% | 97% | 2026-11-30 |
+| DCC PLC | KKR & Co / Energy Capital Partners | UK | p6797.00 | p6375.00 | 6.6% | +3.2% | 80% | 2027-03-31 |
+| Capricorn Energy PLC | Genel Energy No.9 Limited | UK | p381.00 | p374.00 | 1.9% | +8.4% | 92% | 2026-10-31 |
 
 
 ---
@@ -112,6 +111,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
+| 2026-07-31 | Announcement of Private Exchange Offer for Any and All of CS | SID | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336571/0/en/Announcement- |
+| 2026-07-31 | Digital Asset Acquisition Corp. Announces Postponement of Sh | DAAQ | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336567/0/en/Digital-Asset |
 | 2026-08-02 | Scripps completes acquisition of WTVQ in Lexington | SSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337133/0/en/Scripps-compl |
 | 2026-08-03 | Share repurchase programme: Transactions of week 31 2026 | JYSKY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/03/3337214/0/en/Share-repurch |
 | 2026-08-03 | SoundHound AI's Next Earnings Report on Aug. 5 Could Send th | SOUN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/02/soundhound-ais-next-earnings-report-on |
@@ -121,12 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-06 | Gran Tierra Energy (GTE) Q2 2026 Earnings Call | GTE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/call-transcripts/2026/08/05/gran-tierra-energy-gte |
 | 2026-08-07 | TPC Group to Be Acquired by ENEOS Holdings | JXHLY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3340914/15270/en/tpc-group |
 | 2026-08-07 | SpaceX and Tesla Merger Talks Are Heating Up. Here's Why Inv | SPCX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/spacex-and-tesla-merger-talks-are-heat |
-| 2026-08-07 | ROSEN, A TOP-RANKED LAW FIRM, Encourages GPGI, Inc. f/k/a Co | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3340898/673/en/rosen-a-top |
-| 2026-08-07 | ROSEN, TOP RANKED GLOBAL COUNSEL, Encourages DNOW Inc. Inves | DNOW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3340881/673/en/ROSEN-TOP-R |
 | 2026-08-07 | Why Joby Aviation Stock Flew Higher Today | JOBY | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/why-joby-aviation-stock-flew-higher-to |
 | 2026-08-07 | Biogen Completes Acquisition of RayThera Inc. | BIIB | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/Biogen-Comple |
-| 2026-08-07 | Is Cactus Stock Still a Buy After a Board Member Shed 10,000 | WHD | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/06/is-cactus-stock-still-a-buy-aft |
 | 2026-08-07 | Why SiTime Stock Blasted Almost 27% Higher on Thursday | SITM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/why-sitime-stock-blasted-almost-27-hig |
+| 2026-08-08 | iSpecimen Inc. Announces Closing of $5 Million Public Offeri | ISPC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3341397/0/en/ispecimen-inc |
 
 
 ---
@@ -135,7 +134,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Target | Acquirer | Geo | Return | Outcome |
 |--------|---------|-----|--------|---------|
-| — | — | — | — | No closed deals yet |
+| Tate & Lyle PLC | Ingredion Incorporated | UK | -1.4% | — VOLUNTARY_EXIT |
 
 
 ---
@@ -200,11 +199,11 @@ When reviewing candidates, assess each factor:
 
 | Criterion | Threshold | Status |
 |-----------|-----------|--------|
-| Win rate | ≥ 85% | Insufficient data |
-| Avg return on completion | ≥ 2.5% net | — |
+| Win rate | ≥ 85% | 0% |
+| Avg return on completion | ≥ 2.5% net | +0.00% |
 | EV calibration | Predicted vs actual within 10pp | Pending |
 | Annualised return | ≥ 8% | Pending |
-| Minimum sample | 20 closed deals | 0/20 |
+| Minimum sample | 20 closed deals | 1/20 |
 
 ---
 
