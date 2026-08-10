@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-08 08:01 UTC
+**Last updated:** 2026-08-10 06:50 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 27 |
+| Days running | 29 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-07-31 | Announcement of Private Exchange Offer for Any and All of CS | SID | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336571/0/en/Announcement- |
-| 2026-07-31 | Digital Asset Acquisition Corp. Announces Postponement of Sh | DAAQ | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/07/31/3336567/0/en/Digital-Asset |
-| 2026-08-02 | Scripps completes acquisition of WTVQ in Lexington | SSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/01/3337133/0/en/Scripps-compl |
 | 2026-08-03 | Share repurchase programme: Transactions of week 31 2026 | JYSKY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/03/3337214/0/en/Share-repurch |
 | 2026-08-03 | SoundHound AI's Next Earnings Report on Aug. 5 Could Send th | SOUN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/02/soundhound-ais-next-earnings-report-on |
 | 2026-08-04 | Why Atkore Stock Soared Today | ATKR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/03/why-atkore-stock-soared-today/?source= |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-07 | Biogen Completes Acquisition of RayThera Inc. | BIIB | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/Biogen-Comple |
 | 2026-08-07 | Why SiTime Stock Blasted Almost 27% Higher on Thursday | SITM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/why-sitime-stock-blasted-almost-27-hig |
 | 2026-08-08 | iSpecimen Inc. Announces Closing of $5 Million Public Offeri | ISPC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3341397/0/en/ispecimen-inc |
+| 2026-08-10 | ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages DNOW Inc. Inv | DNOW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341512/673/en/rosen-top-r |
+| 2026-08-10 | ROSEN, LEADING TRIAL ATTORNEYS, Encourages GPGI, Inc. f/k/a  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/09/3341506/673/en/rosen-leadi |
+| 2026-08-10 | What to Know When a Victory Capital Insider's Stock Vests on | VCTR | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/09/what-to-know-when-a-victory-cap |
 
 
 ---
