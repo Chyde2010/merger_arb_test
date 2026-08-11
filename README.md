@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-10 06:50 UTC
+**Last updated:** 2026-08-11 06:13 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 29 |
+| Days running | 30 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-03 | Share repurchase programme: Transactions of week 31 2026 | JYSKY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/03/3337214/0/en/Share-repurch |
-| 2026-08-03 | SoundHound AI's Next Earnings Report on Aug. 5 Could Send th | SOUN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/02/soundhound-ais-next-earnings-report-on |
-| 2026-08-04 | Why Atkore Stock Soared Today | ATKR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/03/why-atkore-stock-soared-today/?source= |
 | 2026-08-06 | H1 2026: Record order intake for RENK with above-average inc | RKGRY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3339931/0/en/H1-2026-Recor |
 | 2026-08-06 | red violet Announces Pricing of $100 Million Underwritten Pu | RDVT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3339902/0/en/red-violet-An |
 | 2026-08-06 | Gran Tierra Energy (GTE) Q2 2026 Earnings Call | GTE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/call-transcripts/2026/08/05/gran-tierra-energy-gte |
@@ -123,9 +120,12 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-07 | Biogen Completes Acquisition of RayThera Inc. | BIIB | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/Biogen-Comple |
 | 2026-08-07 | Why SiTime Stock Blasted Almost 27% Higher on Thursday | SITM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/why-sitime-stock-blasted-almost-27-hig |
 | 2026-08-08 | iSpecimen Inc. Announces Closing of $5 Million Public Offeri | ISPC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3341397/0/en/ispecimen-inc |
-| 2026-08-10 | ROSEN, TOP RANKED INVESTOR COUNSEL, Encourages DNOW Inc. Inv | DNOW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341512/673/en/rosen-top-r |
-| 2026-08-10 | ROSEN, LEADING TRIAL ATTORNEYS, Encourages GPGI, Inc. f/k/a  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/09/3341506/673/en/rosen-leadi |
 | 2026-08-10 | What to Know When a Victory Capital Insider's Stock Vests on | VCTR | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/09/what-to-know-when-a-victory-cap |
+| 2026-08-11 | MITT (MITT) Q2 2026 Earnings Call Transcript | MITN | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/call-transcripts/2026/08/10/mitt-mitt-q2-2026-earn |
+| 2026-08-11 | Boston Scientific CEO Mahoney Buys More Than 200k Shares for | BSX | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/10/boston-scientific-ceo-mahoney-b |
+| 2026-08-11 | GCL Announces Acceleration of Subsidiary 4Divinity’s Growth  | GCL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341912/0/en/gcl-announces |
+| 2026-08-11 | Donerail Applauds Beazer Homes Board for Delivering a Value- | DFH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341851/0/en/donerail-appl |
+| 2026-08-11 | eBay CEO Jamie Iannone Sells 22,220 Shares for $2.4 Million  | EBAY | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/10/ebay-ceo-jamie-iannone-sells-22 |
 
 
 ---
