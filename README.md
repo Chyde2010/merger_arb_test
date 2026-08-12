@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-11 06:13 UTC
+**Last updated:** 2026-08-12 06:51 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 30 |
+| Days running | 31 |
 
 ---
 
@@ -125,7 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-11 | Boston Scientific CEO Mahoney Buys More Than 200k Shares for | BSX | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/10/boston-scientific-ceo-mahoney-b |
 | 2026-08-11 | GCL Announces Acceleration of Subsidiary 4Divinity’s Growth  | GCL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341912/0/en/gcl-announces |
 | 2026-08-11 | Donerail Applauds Beazer Homes Board for Delivering a Value- | DFH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341851/0/en/donerail-appl |
-| 2026-08-11 | eBay CEO Jamie Iannone Sells 22,220 Shares for $2.4 Million  | EBAY | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/10/ebay-ceo-jamie-iannone-sells-22 |
+| 2026-08-12 | Curaleaf Just Announced a Hostile Takeover Bid for Aurora Ca | ACB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/12/curaleaf-just-announced-a-hostile-take |
 
 
 ---
