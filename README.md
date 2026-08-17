@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-14 06:52 UTC
+**Last updated:** 2026-08-17 05:58 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 33 |
+| Days running | 36 |
 
 ---
 
@@ -123,9 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-13 | What a Paramount Executive's Latest Insider Filing Signals f | PSKY | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/12/what-a-paramount-executive-s-la |
 | 2026-08-13 | Archer Aviation Is Teaming Up With Boeing. Time to Buy the D | ACHR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/12/archer-aviation-is-teaming-up-with-boe |
 | 2026-08-13 | Intel Is Raising Billions in Equity. History Says This Is Wh | INTC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/12/intel-is-raising-billions-in-equity-hi |
-| 2026-08-14 | Trump Media's CFO Sells Nearly 20,000 Shares After the Compa | DJT | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/13/trump-media-s-cfo-sells-nearly- |
 | 2026-08-14 | Why Airbnb Stock Keeps Going Up | ABNB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/why-airbnb-stock-keeps-going-up/?sourc |
 | 2026-08-14 | BioNTech Just Named a New CEO. Here's What Guido Oelkers' Ap | BNTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/biontech-just-named-a-new-ceo-heres-wh |
+| 2026-08-17 | Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billi | GOOG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/16/sundar-pichai-raised-alphabets-capex-g |
 
 
 ---
