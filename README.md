@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-17 05:58 UTC
+**Last updated:** 2026-08-18 05:52 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 36 |
+| Days running | 37 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-07 | Biogen Completes Acquisition of RayThera Inc. | BIIB | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/06/3340877/0/en/Biogen-Comple |
 | 2026-08-07 | Why SiTime Stock Blasted Almost 27% Higher on Thursday | SITM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/06/why-sitime-stock-blasted-almost-27-hig |
 | 2026-08-08 | iSpecimen Inc. Announces Closing of $5 Million Public Offeri | ISPC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/07/3341397/0/en/ispecimen-inc |
 | 2026-08-10 | What to Know When a Victory Capital Insider's Stock Vests on | VCTR | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/09/what-to-know-when-a-victory-cap |
@@ -126,6 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-14 | Why Airbnb Stock Keeps Going Up | ABNB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/why-airbnb-stock-keeps-going-up/?sourc |
 | 2026-08-14 | BioNTech Just Named a New CEO. Here's What Guido Oelkers' Ap | BNTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/biontech-just-named-a-new-ceo-heres-wh |
 | 2026-08-17 | Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billi | GOOG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/16/sundar-pichai-raised-alphabets-capex-g |
+| 2026-08-18 | Nano Nuclear Is Still Under $20. Here's My Case for Why That | NNE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/17/nano-nuclear-is-still-under-20-heres-m |
 
 
 ---
