@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-24 06:01 UTC
+**Last updated:** 2026-08-25 05:56 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 43 |
+| Days running | 44 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-11 | GCL Announces Acceleration of Subsidiary 4Divinity’s Growth  | GCL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341912/0/en/gcl-announces |
 | 2026-08-11 | Donerail Applauds Beazer Homes Board for Delivering a Value- | DFH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341851/0/en/donerail-appl |
 | 2026-08-12 | Curaleaf Just Announced a Hostile Takeover Bid for Aurora Ca | ACB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/12/curaleaf-just-announced-a-hostile-take |
 | 2026-08-13 | What a Paramount Executive's Latest Insider Filing Signals f | PSKY | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/12/what-a-paramount-executive-s-la |
@@ -126,6 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-20 | The Crowd Is Selling Campbell's Stock. Here's Why It's a Buy | CPB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/19/the-crowd-is-selling-campbells-stock-h |
 | 2026-08-21 | Interactive Brokers' Margin Loans Grew 49% in a Year to $100 | IBKR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/interactive-brokers-margin-loans-grew- |
 | 2026-08-21 | Why ScanSource Stock Is Soaring Today | SCSC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/why-scansource-stock-is-soaring-today/ |
+| 2026-08-25 | ExxonMobil Is Eyeing a Potential $8 Billion Bet on Shell's U | SHEL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/24/exxonmobil-is-eyeing-an-8-billion-bet- |
 
 
 ---
