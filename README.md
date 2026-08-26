@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-25 05:56 UTC
+**Last updated:** 2026-08-26 05:58 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 44 |
+| Days running | 45 |
 
 ---
 
@@ -111,10 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-11 | Donerail Applauds Beazer Homes Board for Delivering a Value- | DFH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/10/3341851/0/en/donerail-appl |
-| 2026-08-12 | Curaleaf Just Announced a Hostile Takeover Bid for Aurora Ca | ACB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/12/curaleaf-just-announced-a-hostile-take |
-| 2026-08-13 | What a Paramount Executive's Latest Insider Filing Signals f | PSKY | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/filings/2026/08/12/what-a-paramount-executive-s-la |
-| 2026-08-13 | Archer Aviation Is Teaming Up With Boeing. Time to Buy the D | ACHR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/12/archer-aviation-is-teaming-up-with-boe |
 | 2026-08-13 | Intel Is Raising Billions in Equity. History Says This Is Wh | INTC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/12/intel-is-raising-billions-in-equity-hi |
 | 2026-08-14 | Why Airbnb Stock Keeps Going Up | ABNB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/why-airbnb-stock-keeps-going-up/?sourc |
 | 2026-08-14 | BioNTech Just Named a New CEO. Here's What Guido Oelkers' Ap | BNTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/biontech-just-named-a-new-ceo-heres-wh |
@@ -126,6 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-21 | Interactive Brokers' Margin Loans Grew 49% in a Year to $100 | IBKR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/interactive-brokers-margin-loans-grew- |
 | 2026-08-21 | Why ScanSource Stock Is Soaring Today | SCSC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/why-scansource-stock-is-soaring-today/ |
 | 2026-08-25 | ExxonMobil Is Eyeing a Potential $8 Billion Bet on Shell's U | SHEL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/24/exxonmobil-is-eyeing-an-8-billion-bet- |
+| 2026-08-26 | Simply Good Foods Company Securities Fraud Class Action Resu | SMPL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/26/3351060/6713/en/simply-goo |
+| 2026-08-26 | Dick’s Sporting Goods’ Core Business Grows 4.9%, but Foot Lo | DKS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/25/dicks-sporting-goods-core-business-gro |
+| 2026-08-26 | Why Navitas Semiconductor Stock Is Up Today | NVTS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/25/why-navitas-semiconductor-stock-is-up- |
+| 2026-08-26 | UWM Holdings Corporation (UWMC) Investors with $150K+ Losses | UWMC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/25/3351027/32716/en/uwm-holdi |
 
 
 ---
