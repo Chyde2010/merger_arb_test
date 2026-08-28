@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-27 16:37 UTC
+**Last updated:** 2026-08-28 17:33 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 46 |
+| Days running | 47 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-14 | Why Airbnb Stock Keeps Going Up | ABNB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/why-airbnb-stock-keeps-going-up/?sourc |
 | 2026-08-14 | BioNTech Just Named a New CEO. Here's What Guido Oelkers' Ap | BNTX | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/13/biontech-just-named-a-new-ceo-heres-wh |
 | 2026-08-17 | Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billi | GOOG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/16/sundar-pichai-raised-alphabets-capex-g |
 | 2026-08-18 | Nano Nuclear Is Still Under $20. Here's My Case for Why That | NNE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/17/nano-nuclear-is-still-under-20-heres-m |
@@ -124,8 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-26 | Simply Good Foods Company Securities Fraud Class Action Resu | SMPL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/26/3351060/6713/en/simply-goo |
 | 2026-08-26 | Why Navitas Semiconductor Stock Is Up Today | NVTS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/25/why-navitas-semiconductor-stock-is-up- |
 | 2026-08-26 | UWM Holdings Corporation (UWMC) Investors with $150K+ Losses | UWMC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/25/3351027/32716/en/uwm-holdi |
-| 2026-08-27 | Bronstein, Gewirtz & Grossman LLC Urges Smartsheet Inc. Inve | BX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/27/3352260/9788/en/bronstein- |
 | 2026-08-27 | Here's Why Ensign Group Stock Remains a Buy for Investors | ENSG | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/2981058/here-s-why-ensign-group-stock-remains-a |
+| 2026-08-28 | Halper Sadeh LLC is Investigating Whether VREX, BWMN, NATH,  | VREX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/28/3352826/0/en/halper-sadeh- |
+| 2026-08-28 | GPGI, Inc. Investors Have Until September 14th to Seek Lead  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/28/3352818/0/en/gpgi-inc-inve |
 
 
 ---
