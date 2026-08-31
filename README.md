@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-08-28 17:33 UTC
+**Last updated:** 2026-08-31 11:43 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 47 |
+| Days running | 50 |
 
 ---
 
@@ -124,8 +124,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-26 | Why Navitas Semiconductor Stock Is Up Today | NVTS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/25/why-navitas-semiconductor-stock-is-up- |
 | 2026-08-26 | UWM Holdings Corporation (UWMC) Investors with $150K+ Losses | UWMC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/25/3351027/32716/en/uwm-holdi |
 | 2026-08-27 | Here's Why Ensign Group Stock Remains a Buy for Investors | ENSG | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/2981058/here-s-why-ensign-group-stock-remains-a |
-| 2026-08-28 | Halper Sadeh LLC is Investigating Whether VREX, BWMN, NATH,  | VREX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/28/3352826/0/en/halper-sadeh- |
-| 2026-08-28 | GPGI, Inc. Investors Have Until September 14th to Seek Lead  | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/28/3352818/0/en/gpgi-inc-inve |
+| 2026-08-31 | UMH PROPERTIES, INC. SECURES NEW FANNIE MAE MORTGAGE | WFC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/31/3353160/0/en/umh-propertie |
+| 2026-08-31 | VisionWave Holdings Provides Update on Pending Acquisition o | VWAV | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/31/3353159/0/en/visionwave-ho |
 
 
 ---
