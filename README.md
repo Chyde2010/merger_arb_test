@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-01 10:17 UTC
+**Last updated:** 2026-09-02 09:47 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 51 |
+| Days running | 52 |
 
 ---
 
@@ -111,6 +111,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
+| 2026-08-17 | Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billi | GOOG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/16/sundar-pichai-raised-alphabets-capex-g |
+| 2026-08-18 | Nano Nuclear Is Still Under $20. Here's My Case for Why That | NNE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/17/nano-nuclear-is-still-under-20-heres-m |
 | 2026-08-19 | IZEA (IZEA) Q2 2026 Earnings Call Transcript | IZEA | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/call-transcripts/2026/08/18/izea-izea-q2-2026-earn |
 | 2026-08-19 | This Company Just Hit 50 Straight Years of Dividend Increase | CSL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/18/this-company-just-hit-50-straight-year |
 | 2026-08-20 | The Crowd Is Selling Campbell's Stock. Here's Why It's a Buy | CPB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/19/the-crowd-is-selling-campbells-stock-h |
@@ -123,9 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-27 | Here's Why Ensign Group Stock Remains a Buy for Investors | ENSG | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/2981058/here-s-why-ensign-group-stock-remains-a |
 | 2026-08-31 | VisionWave Holdings Provides Update on Pending Acquisition o | VWAV | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/31/3353159/0/en/visionwave-ho |
 | 2026-09-01 | New Engen Named to ADWEEK’s Fastest Growing Agencies for Fou | UBER | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/01/3353897/0/en/new-engen-nam |
-| 2026-09-01 | Should You Avoid Opendoor Stock, Even at a 52-Week Low? | OPEN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/01/should-you-avoid-opendoor-stock-52-wee |
 | 2026-09-01 | Can't Decide Between Investing in Rare-Earth Materials and N | UUUU | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/01/cant-decide-between-investing-in-rare- |
-| 2026-09-01 | ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages DNOW Inc. Inv | DNOW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/31/3353758/673/en/rosen-recog |
 
 
 ---
