@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-02 09:47 UTC
+**Last updated:** 2026-09-03 09:59 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 52 |
+| Days running | 53 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-17 | Sundar Pichai Raised Alphabet's Capex Guidance to $205 Billi | GOOG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/16/sundar-pichai-raised-alphabets-capex-g |
-| 2026-08-18 | Nano Nuclear Is Still Under $20. Here's My Case for Why That | NNE | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/17/nano-nuclear-is-still-under-20-heres-m |
-| 2026-08-19 | IZEA (IZEA) Q2 2026 Earnings Call Transcript | IZEA | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/call-transcripts/2026/08/18/izea-izea-q2-2026-earn |
 | 2026-08-19 | This Company Just Hit 50 Straight Years of Dividend Increase | CSL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/18/this-company-just-hit-50-straight-year |
 | 2026-08-20 | The Crowd Is Selling Campbell's Stock. Here's Why It's a Buy | CPB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/19/the-crowd-is-selling-campbells-stock-h |
 | 2026-08-21 | Interactive Brokers' Margin Loans Grew 49% in a Year to $100 | IBKR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/interactive-brokers-margin-loans-grew- |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-08-31 | VisionWave Holdings Provides Update on Pending Acquisition o | VWAV | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/31/3353159/0/en/visionwave-ho |
 | 2026-09-01 | New Engen Named to ADWEEK’s Fastest Growing Agencies for Fou | UBER | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/01/3353897/0/en/new-engen-nam |
 | 2026-09-01 | Can't Decide Between Investing in Rare-Earth Materials and N | UUUU | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/01/cant-decide-between-investing-in-rare- |
+| 2026-09-03 | Fortrea Akan Mengakuisisi Unit Farmakologi Klinis dan Operas | FTRE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355675/0/id/fortrea-akan- |
+| 2026-09-03 | התראה על מועד אחרון לתביעה ייצוגית נגד GPGI, CMPO: רוזן, משר | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355630/673/he/%D7%94%D7%A |
+| 2026-09-03 | Ming Shing Group Holdings Limited Announces Closing of the A | PMA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355616/0/en/ming-shing-gr |
 
 
 ---
