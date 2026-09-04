@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-03 09:59 UTC
+**Last updated:** 2026-09-04 09:48 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 53 |
+| Days running | 54 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-19 | This Company Just Hit 50 Straight Years of Dividend Increase | CSL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/18/this-company-just-hit-50-straight-year |
-| 2026-08-20 | The Crowd Is Selling Campbell's Stock. Here's Why It's a Buy | CPB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/19/the-crowd-is-selling-campbells-stock-h |
-| 2026-08-21 | Interactive Brokers' Margin Loans Grew 49% in a Year to $100 | IBKR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/interactive-brokers-margin-loans-grew- |
 | 2026-08-21 | Why ScanSource Stock Is Soaring Today | SCSC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/why-scansource-stock-is-soaring-today/ |
 | 2026-08-25 | ExxonMobil Is Eyeing a Potential $8 Billion Bet on Shell's U | SHEL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/24/exxonmobil-is-eyeing-an-8-billion-bet- |
 | 2026-08-26 | Simply Good Foods Company Securities Fraud Class Action Resu | SMPL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/26/3351060/6713/en/simply-goo |
@@ -124,8 +121,11 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-01 | New Engen Named to ADWEEK’s Fastest Growing Agencies for Fou | UBER | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/01/3353897/0/en/new-engen-nam |
 | 2026-09-01 | Can't Decide Between Investing in Rare-Earth Materials and N | UUUU | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/01/cant-decide-between-investing-in-rare- |
 | 2026-09-03 | Fortrea Akan Mengakuisisi Unit Farmakologi Klinis dan Operas | FTRE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355675/0/id/fortrea-akan- |
-| 2026-09-03 | התראה על מועד אחרון לתביעה ייצוגית נגד GPGI, CMPO: רוזן, משר | GPGI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355630/673/he/%D7%94%D7%A |
 | 2026-09-03 | Ming Shing Group Holdings Limited Announces Closing of the A | PMA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355616/0/en/ming-shing-gr |
+| 2026-09-04 | No Intention to Make an Offer for Genel Energy plc | DTNOY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356409/0/en/no-intention- |
+| 2026-09-04 | Why Karman Holdings Stock Was Wilting Again This Week | KRMN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/04/why-karman-holdings-stock-was-wilting- |
+| 2026-09-04 | DKS INVESTOR ALERT: Kirby McInerney LLP Investigates Potenti | DKS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356345/937/en/dks-investo |
+| 2026-09-04 | Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Hua | NVDA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal |
 
 
 ---
