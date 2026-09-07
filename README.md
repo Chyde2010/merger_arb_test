@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-04 09:48 UTC
+**Last updated:** 2026-09-07 10:34 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 54 |
+| Days running | 57 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-21 | Why ScanSource Stock Is Soaring Today | SCSC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/20/why-scansource-stock-is-soaring-today/ |
-| 2026-08-25 | ExxonMobil Is Eyeing a Potential $8 Billion Bet on Shell's U | SHEL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/24/exxonmobil-is-eyeing-an-8-billion-bet- |
-| 2026-08-26 | Simply Good Foods Company Securities Fraud Class Action Resu | SMPL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/26/3351060/6713/en/simply-goo |
 | 2026-08-26 | Why Navitas Semiconductor Stock Is Up Today | NVTS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/08/25/why-navitas-semiconductor-stock-is-up- |
 | 2026-08-26 | UWM Holdings Corporation (UWMC) Investors with $150K+ Losses | UWMC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/25/3351027/32716/en/uwm-holdi |
 | 2026-08-27 | Here's Why Ensign Group Stock Remains a Buy for Investors | ENSG | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/2981058/here-s-why-ensign-group-stock-remains-a |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-04 | Why Karman Holdings Stock Was Wilting Again This Week | KRMN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/04/why-karman-holdings-stock-was-wilting- |
 | 2026-09-04 | DKS INVESTOR ALERT: Kirby McInerney LLP Investigates Potenti | DKS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356345/937/en/dks-investo |
 | 2026-09-04 | Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Hua | NVDA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal |
+| 2026-09-07 | “Breaking Through and Reframing” Shenzhen Salon to Explore N | APP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357038/0/en/breaking-thro |
+| 2026-09-07 | Form 8.5 (EPT/RI)-Advanced Medical Solutions Group Plc | IVTJY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357019/0/en/form-8-5-ept- |
+| 2026-09-07 | Sampo Oyj:n omien osakkeiden ostot viikolla 36/2026 | SAXPY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3356948/0/fi/sampo-oyj-n-o |
 
 
 ---
