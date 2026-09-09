@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-08 09:54 UTC
+**Last updated:** 2026-09-09 09:57 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 58 |
+| Days running | 59 |
 
 ---
 
@@ -125,7 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-07 | “Breaking Through and Reframing” Shenzhen Salon to Explore N | APP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357038/0/en/breaking-thro |
 | 2026-09-07 | Form 8.5 (EPT/RI)-Advanced Medical Solutions Group Plc | IVTJY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357019/0/en/form-8-5-ept- |
 | 2026-09-07 | Sampo Oyj:n omien osakkeiden ostot viikolla 36/2026 | SAXPY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3356948/0/fi/sampo-oyj-n-o |
-| 2026-09-08 | PLNT FINAL DEADLINE: ROSEN, A TRUSTED INVESTOR RIGHTS FIRM,  | PLNT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/08/3357296/673/en/plnt-final- |
+| 2026-09-09 | MulticoreWare and Micware Sign MOU to Explore Potential Coll | MWC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3358313/0/en/multicoreware |
 
 
 ---
