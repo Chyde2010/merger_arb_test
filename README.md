@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-09 09:57 UTC
+**Last updated:** 2026-09-10 09:55 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 59 |
+| Days running | 60 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-08-26 | UWM Holdings Corporation (UWMC) Investors with $150K+ Losses | UWMC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/25/3351027/32716/en/uwm-holdi |
-| 2026-08-27 | Here's Why Ensign Group Stock Remains a Buy for Investors | ENSG | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/2981058/here-s-why-ensign-group-stock-remains-a |
-| 2026-08-31 | VisionWave Holdings Provides Update on Pending Acquisition o | VWAV | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/08/31/3353159/0/en/visionwave-ho |
 | 2026-09-01 | New Engen Named to ADWEEK’s Fastest Growing Agencies for Fou | UBER | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/01/3353897/0/en/new-engen-nam |
 | 2026-09-01 | Can't Decide Between Investing in Rare-Earth Materials and N | UUUU | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/01/cant-decide-between-investing-in-rare- |
 | 2026-09-03 | Fortrea Akan Mengakuisisi Unit Farmakologi Klinis dan Operas | FTRE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355675/0/id/fortrea-akan- |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-07 | Form 8.5 (EPT/RI)-Advanced Medical Solutions Group Plc | IVTJY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357019/0/en/form-8-5-ept- |
 | 2026-09-07 | Sampo Oyj:n omien osakkeiden ostot viikolla 36/2026 | SAXPY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3356948/0/fi/sampo-oyj-n-o |
 | 2026-09-09 | MulticoreWare and Micware Sign MOU to Explore Potential Coll | MWC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3358313/0/en/multicoreware |
+| 2026-09-10 | WISeKey Shareholders Approve Redomiciliation to the British  | WKEY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/10/3359179/0/en/wisekey-share |
+| 2026-09-10 | $HAREHOLDER ALERT: The M&A Class Action Firm Continues to In | AUUD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3359044/0/en/hareholder-al |
+| 2026-09-10 | $HAREHOLDER ALERT: The M&A Class Action Firm Continues to In | IRDM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3359045/0/en/hareholder-al |
 
 
 ---
