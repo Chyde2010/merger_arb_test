@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-10 09:55 UTC
+**Last updated:** 2026-09-11 09:53 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 60 |
+| Days running | 61 |
 
 ---
 
@@ -124,8 +124,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-07 | Sampo Oyj:n omien osakkeiden ostot viikolla 36/2026 | SAXPY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3356948/0/fi/sampo-oyj-n-o |
 | 2026-09-09 | MulticoreWare and Micware Sign MOU to Explore Potential Coll | MWC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3358313/0/en/multicoreware |
 | 2026-09-10 | WISeKey Shareholders Approve Redomiciliation to the British  | WKEY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/10/3359179/0/en/wisekey-share |
-| 2026-09-10 | $HAREHOLDER ALERT: The M&A Class Action Firm Continues to In | AUUD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3359044/0/en/hareholder-al |
-| 2026-09-10 | $HAREHOLDER ALERT: The M&A Class Action Firm Continues to In | IRDM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3359045/0/en/hareholder-al |
+| 2026-09-11 | Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - O | PLD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/11/3360157/0/en/dimensional-f |
+| 2026-09-11 | Wynson Securities Limited Announces Continued Progress on Ne | NEE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/11/3360081/0/en/wynson-securi |
 
 
 ---
