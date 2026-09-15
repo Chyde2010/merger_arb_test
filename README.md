@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-14 10:51 UTC
+**Last updated:** 2026-09-15 10:15 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 64 |
+| Days running | 65 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-01 | Can't Decide Between Investing in Rare-Earth Materials and N | UUUU | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/01/cant-decide-between-investing-in-rare- |
-| 2026-09-03 | Fortrea Akan Mengakuisisi Unit Farmakologi Klinis dan Operas | FTRE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355675/0/id/fortrea-akan- |
-| 2026-09-03 | Ming Shing Group Holdings Limited Announces Closing of the A | PMA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355616/0/en/ming-shing-gr |
 | 2026-09-04 | No Intention to Make an Offer for Genel Energy plc | DTNOY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356409/0/en/no-intention- |
 | 2026-09-04 | Why Karman Holdings Stock Was Wilting Again This Week | KRMN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/04/why-karman-holdings-stock-was-wilting- |
 | 2026-09-04 | DKS INVESTOR ALERT: Kirby McInerney LLP Investigates Potenti | DKS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356345/937/en/dks-investo |
@@ -125,7 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-10 | WISeKey Shareholders Approve Redomiciliation to the British  | WKEY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/10/3359179/0/en/wisekey-share |
 | 2026-09-11 | Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - O | PLD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/11/3360157/0/en/dimensional-f |
 | 2026-09-11 | Wynson Securities Limited Announces Continued Progress on Ne | NEE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/11/3360081/0/en/wynson-securi |
-| 2026-09-14 | PLNT FINAL DEADLINE: ROSEN, NATIONAL TRIAL COUNSEL, Encourag | PLNT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/13/3360640/673/en/plnt-final- |
+| 2026-09-15 | Sysco Announces Pricing of Common Stock Offering | SYY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361631/2867/en/sysco-anno |
+| 2026-09-15 | Shareholders who lost money in shares of acquired Papa John’ | PZZA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361617/6819/en/shareholde |
+| 2026-09-15 | CORRECTED — Impact Biomedical Inc (NYSE: IBO) Announces 1 fo | IBO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361616/0/en/corrected-imp |
+| 2026-09-15 | Shareholders who lost money in shares of acquired Hims & Her | HIMS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361609/6819/en/shareholde |
 
 
 ---
