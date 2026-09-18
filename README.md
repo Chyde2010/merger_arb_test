@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-17 10:12 UTC
+**Last updated:** 2026-09-18 09:57 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 67 |
+| Days running | 68 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-03 | Ming Shing Group Holdings Limited Announces Closing of the A | PMA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/03/3355616/0/en/ming-shing-gr |
-| 2026-09-04 | No Intention to Make an Offer for Genel Energy plc | DTNOY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356409/0/en/no-intention- |
-| 2026-09-04 | Why Karman Holdings Stock Was Wilting Again This Week | KRMN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/04/why-karman-holdings-stock-was-wilting- |
 | 2026-09-04 | DKS INVESTOR ALERT: Kirby McInerney LLP Investigates Potenti | DKS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356345/937/en/dks-investo |
 | 2026-09-04 | Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Hua | NVDA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal |
 | 2026-09-07 | “Breaking Through and Reframing” Shenzhen Salon to Explore N | APP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357038/0/en/breaking-thro |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-15 | Sysco Announces Pricing of Common Stock Offering | SYY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361631/2867/en/sysco-anno |
 | 2026-09-15 | CORRECTED — Impact Biomedical Inc (NYSE: IBO) Announces 1 fo | IBO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361616/0/en/corrected-imp |
 | 2026-09-17 | Leidos Just Closed a $2.4 Billion Grid-Infrastructure Acquis | LDOS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/17/leidos-just-closed-a-24-billion-grid-i |
+| 2026-09-18 | Taboola to Acquire Dianomi, Significantly Bolstering its Abi | TBLA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/18/3364493/31297/en/taboola-t |
+| 2026-09-18 | Zacks Industry Outlook Caterpillar, Komatsu and Terex | CAT | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/2991702/zacks-industry-outlook-caterpillar-koma |
+| 2026-09-18 | Equinor ASA: Kjøp av aksjer til aksjeprogram for ansatte | EQNR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/18/3364470/0/no/equinor-asa-k |
 
 
 ---
