@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-21 10:55 UTC
+**Last updated:** 2026-09-22 10:09 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 71 |
+| Days running | 72 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-04 | Why Karman Holdings Stock Was Wilting Again This Week | KRMN | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/04/why-karman-holdings-stock-was-wilting- |
 | 2026-09-04 | DKS INVESTOR ALERT: Kirby McInerney LLP Investigates Potenti | DKS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/04/3356345/937/en/dks-investo |
 | 2026-09-04 | Nvidia’s $12.93 Billion Hugging Face Deal Expands Jensen Hua | NVDA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/03/nvidias-1293-billion-hugging-face-deal |
 | 2026-09-07 | “Breaking Through and Reframing” Shenzhen Salon to Explore N | APP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357038/0/en/breaking-thro |
@@ -126,6 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-17 | Leidos Just Closed a $2.4 Billion Grid-Infrastructure Acquis | LDOS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/17/leidos-just-closed-a-24-billion-grid-i |
 | 2026-09-18 | Equinor ASA: Kjøp av aksjer til aksjeprogram for ansatte | EQNR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/18/3364470/0/no/equinor-asa-k |
 | 2026-09-21 | Telix and ITM Join Forces to Create a Radiopharmaceutical Po | TLX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/21/3365113/0/en/telix-and-itm |
+| 2026-09-22 | Bureau Veritas confirms LEAP | 28 ambition, upgrades total r | BVVBY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/22/3365950/0/en/bureau-verita |
 
 
 ---
