@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-22 10:09 UTC
+**Last updated:** 2026-09-23 10:11 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 72 |
+| Days running | 73 |
 
 ---
 
@@ -125,7 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-17 | Leidos Just Closed a $2.4 Billion Grid-Infrastructure Acquis | LDOS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/17/leidos-just-closed-a-24-billion-grid-i |
 | 2026-09-18 | Equinor ASA: Kjøp av aksjer til aksjeprogram for ansatte | EQNR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/18/3364470/0/no/equinor-asa-k |
 | 2026-09-21 | Telix and ITM Join Forces to Create a Radiopharmaceutical Po | TLX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/21/3365113/0/en/telix-and-itm |
-| 2026-09-22 | Bureau Veritas confirms LEAP | 28 ambition, upgrades total r | BVVBY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/22/3365950/0/en/bureau-verita |
+| 2026-09-23 | Biosimulation Market Set for Strong Growth Through 2035, Fue | CERT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/23/3367233/28124/en/biosimula |
 
 
 ---
