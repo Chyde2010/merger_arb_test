@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-24 10:18 UTC
+**Last updated:** 2026-09-25 10:21 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 74 |
+| Days running | 75 |
 
 ---
 
@@ -111,6 +111,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
+| 2026-09-07 | “Breaking Through and Reframing” Shenzhen Salon to Explore N | APP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357038/0/en/breaking-thro |
+| 2026-09-07 | Form 8.5 (EPT/RI)-Advanced Medical Solutions Group Plc | IVTJY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3357019/0/en/form-8-5-ept- |
 | 2026-09-07 | Sampo Oyj:n omien osakkeiden ostot viikolla 36/2026 | SAXPY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/07/3356948/0/fi/sampo-oyj-n-o |
 | 2026-09-09 | MulticoreWare and Micware Sign MOU to Explore Potential Coll | MWC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/09/3358313/0/en/multicoreware |
 | 2026-09-10 | WISeKey Shareholders Approve Redomiciliation to the British  | WKEY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/10/3359179/0/en/wisekey-share |
@@ -122,10 +124,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-18 | Equinor ASA: Kjøp av aksjer til aksjeprogram for ansatte | EQNR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/18/3364470/0/no/equinor-asa-k |
 | 2026-09-21 | Telix and ITM Join Forces to Create a Radiopharmaceutical Po | TLX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/21/3365113/0/en/telix-and-itm |
 | 2026-09-24 | Fortuna CEO to present at Mining Forum Americas 2026 | B | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/24/3368069/0/en/fortuna-ceo-t |
-| 2026-09-24 | AtlasClear Holdings, Inc. Reports Fiscal Year 2026 Results | ATCH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/24/3367922/0/en/atlasclear-ho |
 | 2026-09-24 | The Elmet Group to Invest Approximately $125 Million in Masa | ELMT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/24/3367921/0/en/the-elmet-gro |
 | 2026-09-24 | Harvard's Judgment Professor: Numbers Don't Make Decisions;  | TPG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/23/harvards-judgment-professor-why-number |
-| 2026-09-24 | ROSEN, RECOGNIZED INVESTOR COUNSEL, Encourages Dun & Bradstr | YSS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/24/3367917/673/en/rosen-recog |
 
 
 ---
