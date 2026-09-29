@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-28 11:51 UTC
+**Last updated:** 2026-09-29 11:27 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 78 |
+| Days running | 79 |
 
 ---
 
@@ -124,8 +124,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-24 | Harvard's Judgment Professor: Numbers Don't Make Decisions;  | TPG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/23/harvards-judgment-professor-why-number |
 | 2026-09-28 | FTAI Acquires 27 Boeing 737-700 Aircraft from WestJet | FTAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369685/35538/en/ftai-acqu |
 | 2026-09-28 | Zymeworks Announces Updated 2026 Financial Guidance and Fina | ZYME | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369687/0/en/zymeworks-ann |
-| 2026-09-28 | EFI and Agfa’s DPS Business to Combine  and Form a Global, F | AFGVY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369503/0/en/efi-and-agfa- |
 | 2026-09-28 | NIO Announces Definitive Agreements for Strategic Transactio | NIO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/27/3369470/0/en/nio-announces |
+| 2026-09-29 | Rexel annonce le succès de son augmentation de capital d’env | RXEEY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/29/3370387/0/fr/rexel-annonce |
 
 
 ---
