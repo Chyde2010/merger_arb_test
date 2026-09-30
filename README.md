@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-29 11:27 UTC
+**Last updated:** 2026-09-30 11:16 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 79 |
+| Days running | 80 |
 
 ---
 
@@ -125,7 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-28 | FTAI Acquires 27 Boeing 737-700 Aircraft from WestJet | FTAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369685/35538/en/ftai-acqu |
 | 2026-09-28 | Zymeworks Announces Updated 2026 Financial Guidance and Fina | ZYME | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369687/0/en/zymeworks-ann |
 | 2026-09-28 | NIO Announces Definitive Agreements for Strategic Transactio | NIO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/27/3369470/0/en/nio-announces |
-| 2026-09-29 | Rexel annonce le succès de son augmentation de capital d’env | RXEEY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/29/3370387/0/fr/rexel-annonce |
+| 2026-09-30 | Terumo Neuro Signs Agreement to Acquire Arsenal Medical – Ad | TRUMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/30/3371536/0/en/terumo-neuro- |
 
 
 ---
