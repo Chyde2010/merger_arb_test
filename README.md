@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-09-30 11:16 UTC
+**Last updated:** 2026-10-01 11:43 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 80 |
+| Days running | 81 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-10 | WISeKey Shareholders Approve Redomiciliation to the British  | WKEY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/10/3359179/0/en/wisekey-share |
-| 2026-09-11 | Dimensional Fund Advisors Ltd. : Form 8.3 - PROLOGIS INC - O | PLD | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/11/3360157/0/en/dimensional-f |
-| 2026-09-11 | Wynson Securities Limited Announces Continued Progress on Ne | NEE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/11/3360081/0/en/wynson-securi |
 | 2026-09-15 | Sysco Announces Pricing of Common Stock Offering | SYY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361631/2867/en/sysco-anno |
 | 2026-09-15 | CORRECTED — Impact Biomedical Inc (NYSE: IBO) Announces 1 fo | IBO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361616/0/en/corrected-imp |
 | 2026-09-17 | Leidos Just Closed a $2.4 Billion Grid-Infrastructure Acquis | LDOS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/17/leidos-just-closed-a-24-billion-grid-i |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-28 | Zymeworks Announces Updated 2026 Financial Guidance and Fina | ZYME | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369687/0/en/zymeworks-ann |
 | 2026-09-28 | NIO Announces Definitive Agreements for Strategic Transactio | NIO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/27/3369470/0/en/nio-announces |
 | 2026-09-30 | Terumo Neuro Signs Agreement to Acquire Arsenal Medical – Ad | TRUMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/30/3371536/0/en/terumo-neuro- |
+| 2026-10-01 | Lead Plaintiff Deadlines in Shareholder Class Action Lawsuit | TBLA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/01/3372722/0/en/lead-plaintif |
+| 2026-10-01 | Dimensional Fund Advisors Ltd. : Form 8.3 - RHI MAGNESITA NV | RHHMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/01/3372671/0/en/dimensional-f |
+| 2026-10-01 | מחר המועד אחרון לתביעה ייצוגית נגד DNOW: רוזן, שהגיש את התבי | DNOW | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/01/3372507/673/he/%D7%9E%D7%9 |
 
 
 ---
