@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-02 11:12 UTC
+**Last updated:** 2026-10-05 12:27 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 82 |
+| Days running | 85 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-11 | Wynson Securities Limited Announces Continued Progress on Ne | NEE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/11/3360081/0/en/wynson-securi |
 | 2026-09-15 | Sysco Announces Pricing of Common Stock Offering | SYY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361631/2867/en/sysco-anno |
 | 2026-09-15 | CORRECTED — Impact Biomedical Inc (NYSE: IBO) Announces 1 fo | IBO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/15/3361616/0/en/corrected-imp |
 | 2026-09-17 | Leidos Just Closed a $2.4 Billion Grid-Infrastructure Acquis | LDOS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/17/leidos-just-closed-a-24-billion-grid-i |
@@ -126,6 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-09-30 | Terumo Neuro Signs Agreement to Acquire Arsenal Medical – Ad | TRUMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/30/3371536/0/en/terumo-neuro- |
 | 2026-10-01 | Dimensional Fund Advisors Ltd. : Form 8.3 - RHI MAGNESITA NV | RHHMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/01/3372671/0/en/dimensional-f |
 | 2026-10-02 | Gilat's 2026 Outlook: Defense and In-Flight Connectivity Dri | GILT | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/moneyball/2026/10/01/gilats-2026-outlook-defense-a |
+| 2026-10-05 | Athabasca Oil Announces Agreement to be Acquired by Cenovus  | CVE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/05/3374298/0/en/athabasca-oil |
 
 
 ---
