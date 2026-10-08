@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-07 11:53 UTC
+**Last updated:** 2026-10-08 12:09 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 87 |
+| Days running | 88 |
 
 ---
 
@@ -111,8 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-24 | Fortuna CEO to present at Mining Forum Americas 2026 | B | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/24/3368069/0/en/fortuna-ceo-t |
-| 2026-09-24 | The Elmet Group to Invest Approximately $125 Million in Masa | ELMT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/24/3367921/0/en/the-elmet-gro |
 | 2026-09-24 | Harvard's Judgment Professor: Numbers Don't Make Decisions;  | TPG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/23/harvards-judgment-professor-why-number |
 | 2026-09-28 | FTAI Acquires 27 Boeing 737-700 Aircraft from WestJet | FTAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369685/35538/en/ftai-acqu |
 | 2026-09-28 | Zymeworks Announces Updated 2026 Financial Guidance and Fina | ZYME | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369687/0/en/zymeworks-ann |
@@ -126,6 +124,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-07 | SECURITIES CLASS ACTION NOTICE: Girard Sharp Law Firm Encour | RKT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/07/3376275/0/en/securities-cl |
 | 2026-10-07 | Meet the Dividend King That's Down 50% and Yields More Than  | HRL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/dividend-king-down-50-yields-more-horm |
 | 2026-10-07 | 5 Stocks That Have Doubled Their Dividend in the Last 7 Year | WSM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/stocks-doubled-dividend-7-years-buy-co |
+| 2026-10-08 | Powell Max Limited Congratulates Remington Firearms on its N | PMAX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3377059/0/en/powell-max-li |
+| 2026-10-08 | Michelin: Disclosure of trading in own shares - October 8th, | MGDDY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3376952/0/en/michelin-disc |
 
 
 ---
