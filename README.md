@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-08 12:09 UTC
+**Last updated:** 2026-10-09 12:00 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 88 |
+| Days running | 89 |
 
 ---
 
@@ -125,7 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-07 | Meet the Dividend King That's Down 50% and Yields More Than  | HRL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/dividend-king-down-50-yields-more-horm |
 | 2026-10-07 | 5 Stocks That Have Doubled Their Dividend in the Last 7 Year | WSM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/stocks-doubled-dividend-7-years-buy-co |
 | 2026-10-08 | Powell Max Limited Congratulates Remington Firearms on its N | PMAX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3377059/0/en/powell-max-li |
-| 2026-10-08 | Michelin: Disclosure of trading in own shares - October 8th, | MGDDY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3376952/0/en/michelin-disc |
+| 2026-10-09 | The Zacks Analyst Blog Highlights HEICO, ATI and Teledyne | HEI | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/3003368/the-zacks-analyst-blog-highlights-heico |
 
 
 ---
