@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-09 12:00 UTC
+**Last updated:** 2026-10-12 13:22 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 89 |
+| Days running | 92 |
 
 ---
 
@@ -111,8 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-24 | Harvard's Judgment Professor: Numbers Don't Make Decisions;  | TPG | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/09/23/harvards-judgment-professor-why-number |
-| 2026-09-28 | FTAI Acquires 27 Boeing 737-700 Aircraft from WestJet | FTAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369685/35538/en/ftai-acqu |
 | 2026-09-28 | Zymeworks Announces Updated 2026 Financial Guidance and Fina | ZYME | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369687/0/en/zymeworks-ann |
 | 2026-09-28 | NIO Announces Definitive Agreements for Strategic Transactio | NIO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/27/3369470/0/en/nio-announces |
 | 2026-09-30 | Terumo Neuro Signs Agreement to Acquire Arsenal Medical – Ad | TRUMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/30/3371536/0/en/terumo-neuro- |
@@ -125,7 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-07 | Meet the Dividend King That's Down 50% and Yields More Than  | HRL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/dividend-king-down-50-yields-more-horm |
 | 2026-10-07 | 5 Stocks That Have Doubled Their Dividend in the Last 7 Year | WSM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/stocks-doubled-dividend-7-years-buy-co |
 | 2026-10-08 | Powell Max Limited Congratulates Remington Firearms on its N | PMAX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3377059/0/en/powell-max-li |
-| 2026-10-09 | The Zacks Analyst Blog Highlights HEICO, ATI and Teledyne | HEI | US | TBC | TBC | polygon_news | https://www.zacks.com/stock/news/3003368/the-zacks-analyst-blog-highlights-heico |
+| 2026-10-12 | Sciens Building Solutions Welcomes the Wilkins Company and S | CG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378894/0/en/sciens-buildi |
+| 2026-10-12 | Freshworks to Extend Freshservice into AI and Software Spend | FRSH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378824/0/en/freshworks-to |
+| 2026-10-12 | STERIS Expands Healthcare Consumables Offering with Definiti | STE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378821/0/en/steris-expand |
 
 
 ---
