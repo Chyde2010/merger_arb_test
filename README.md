@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-12 13:22 UTC
+**Last updated:** 2026-10-13 12:50 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 92 |
+| Days running | 93 |
 
 ---
 
@@ -111,11 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-09-28 | Zymeworks Announces Updated 2026 Financial Guidance and Fina | ZYME | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/28/3369687/0/en/zymeworks-ann |
-| 2026-09-28 | NIO Announces Definitive Agreements for Strategic Transactio | NIO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/27/3369470/0/en/nio-announces |
-| 2026-09-30 | Terumo Neuro Signs Agreement to Acquire Arsenal Medical – Ad | TRUMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/09/30/3371536/0/en/terumo-neuro- |
-| 2026-10-01 | Dimensional Fund Advisors Ltd. : Form 8.3 - RHI MAGNESITA NV | RHHMY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/01/3372671/0/en/dimensional-f |
-| 2026-10-02 | Gilat's 2026 Outlook: Defense and In-Flight Connectivity Dri | GILT | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/moneyball/2026/10/01/gilats-2026-outlook-defense-a |
 | 2026-10-05 | Athabasca Oil Announces Agreement to be Acquired by Cenovus  | CVE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/05/3374298/0/en/athabasca-oil |
 | 2026-10-07 | OR Royalties Announces Preliminary Q3 2026 GEO Deliveries | OR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/07/3376333/0/en/or-royalties- |
 | 2026-10-07 | SECURITIES CLASS ACTION NOTICE: Girard Sharp Law Firm Encour | OTF | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/07/3376272/0/en/securities-cl |
@@ -125,7 +120,12 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-08 | Powell Max Limited Congratulates Remington Firearms on its N | PMAX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3377059/0/en/powell-max-li |
 | 2026-10-12 | Sciens Building Solutions Welcomes the Wilkins Company and S | CG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378894/0/en/sciens-buildi |
 | 2026-10-12 | Freshworks to Extend Freshservice into AI and Software Spend | FRSH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378824/0/en/freshworks-to |
-| 2026-10-12 | STERIS Expands Healthcare Consumables Offering with Definiti | STE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378821/0/en/steris-expand |
+| 2026-10-13 | Charles Schwab's Next Earnings Report on Oct. 15 Could Send  | SCHW | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/13/charles-schwab-s-next-earnings-report- |
+| 2026-10-13 | Foresight Signed a Non-Binding Term Sheet to Acquire 50.01%  | FRSX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379499/0/en/foresight-sig |
+| 2026-10-13 | Symbotic Announces Acquisition of cellumation, Advancing Nex | SYM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379466/0/en/symbotic-anno |
+| 2026-10-13 | Publicis Groupe : Revenu du troisième trimestre 2026 | PUBGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379313/0/fr/publicis-grou |
+| 2026-10-13 | CSG enters the space sector through investment in MDA Space | CSGVY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379303/0/en/csg-enters-th |
+| 2026-10-13 | ROSEN, A LEADING LAW FIRM, Encourages Compass, Inc. Investor | COMP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379291/673/en/rosen-a-lea |
 
 
 ---
