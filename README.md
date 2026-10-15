@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-14 10:24 UTC
+**Last updated:** 2026-10-15 10:09 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 94 |
+| Days running | 95 |
 
 ---
 
@@ -125,7 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-13 | Foresight Signed a Non-Binding Term Sheet to Acquire 50.01%  | FRSX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379499/0/en/foresight-sig |
 | 2026-10-13 | Publicis Groupe : Revenu du troisième trimestre 2026 | PUBGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379313/0/fr/publicis-grou |
 | 2026-10-13 | CSG enters the space sector through investment in MDA Space | CSGVY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379303/0/en/csg-enters-th |
-| 2026-10-14 | Millrose Properties, Inc. Securities Fraud Class Action Resu | MRP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/14/3380311/6713/en/millrose-p |
+| 2026-10-15 | Compass Lexecon Continues to Expand Competition Expertise Wi | FCN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/15/3381306/33891/en/compass-l |
 
 
 ---
