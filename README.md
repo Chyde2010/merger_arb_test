@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-15 10:09 UTC
+**Last updated:** 2026-10-16 10:00 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 95 |
+| Days running | 96 |
 
 ---
 
@@ -111,10 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-02 | Gilat's 2026 Outlook: Defense and In-Flight Connectivity Dri | GILT | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/moneyball/2026/10/01/gilats-2026-outlook-defense-a |
-| 2026-10-05 | Athabasca Oil Announces Agreement to be Acquired by Cenovus  | CVE | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/05/3374298/0/en/athabasca-oil |
-| 2026-10-07 | OR Royalties Announces Preliminary Q3 2026 GEO Deliveries | OR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/07/3376333/0/en/or-royalties- |
-| 2026-10-07 | SECURITIES CLASS ACTION NOTICE: Girard Sharp Law Firm Encour | OTF | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/07/3376272/0/en/securities-cl |
 | 2026-10-07 | SECURITIES CLASS ACTION NOTICE: Girard Sharp Law Firm Encour | RKT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/07/3376275/0/en/securities-cl |
 | 2026-10-07 | Meet the Dividend King That's Down 50% and Yields More Than  | HRL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/dividend-king-down-50-yields-more-horm |
 | 2026-10-07 | 5 Stocks That Have Doubled Their Dividend in the Last 7 Year | WSM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/stocks-doubled-dividend-7-years-buy-co |
@@ -126,6 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-13 | Publicis Groupe : Revenu du troisième trimestre 2026 | PUBGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379313/0/fr/publicis-grou |
 | 2026-10-13 | CSG enters the space sector through investment in MDA Space | CSGVY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379303/0/en/csg-enters-th |
 | 2026-10-15 | Compass Lexecon Continues to Expand Competition Expertise Wi | FCN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/15/3381306/33891/en/compass-l |
+| 2026-10-16 | Director/PDMR Shareholding | AMIGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/16/3382255/0/en/director-pdmr |
+| 2026-10-16 | Massive News for IonQ Stock Investors | IONQ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/16/massive-news-for-ionq-stock-investors/ |
+| 2026-10-16 | Strive Announces Pricing of Upsized Initial Public Offering  | ASST | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/16/3382236/0/en/strive-announ |
+| 2026-10-16 | COMP Class Action Reminder – Robbins LLP Reminds Investors o | COMP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/15/3382215/32719/en/comp-clas |
 
 
 ---
