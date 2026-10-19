@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-16 10:00 UTC
+**Last updated:** 2026-10-19 11:02 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 96 |
+| Days running | 99 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-07 | SECURITIES CLASS ACTION NOTICE: Girard Sharp Law Firm Encour | RKT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/07/3376275/0/en/securities-cl |
 | 2026-10-07 | Meet the Dividend King That's Down 50% and Yields More Than  | HRL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/dividend-king-down-50-yields-more-horm |
 | 2026-10-07 | 5 Stocks That Have Doubled Their Dividend in the Last 7 Year | WSM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/stocks-doubled-dividend-7-years-buy-co |
 | 2026-10-08 | Powell Max Limited Congratulates Remington Firearms on its N | PMAX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3377059/0/en/powell-max-li |
@@ -126,6 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-16 | Massive News for IonQ Stock Investors | IONQ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/16/massive-news-for-ionq-stock-investors/ |
 | 2026-10-16 | Strive Announces Pricing of Upsized Initial Public Offering  | ASST | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/16/3382236/0/en/strive-announ |
 | 2026-10-16 | COMP Class Action Reminder – Robbins LLP Reminds Investors o | COMP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/15/3382215/32719/en/comp-clas |
+| 2026-10-19 | Red Cat Announces Proposed Voluntary Public Purchase Offer f | RCAT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/19/3382970/0/en/red-cat-annou |
 
 
 ---
