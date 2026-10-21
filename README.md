@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-20 10:14 UTC
+**Last updated:** 2026-10-21 10:23 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 100 |
+| Days running | 101 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-07 | Meet the Dividend King That's Down 50% and Yields More Than  | HRL | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/dividend-king-down-50-yields-more-horm |
-| 2026-10-07 | 5 Stocks That Have Doubled Their Dividend in the Last 7 Year | WSM | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/07/stocks-doubled-dividend-7-years-buy-co |
-| 2026-10-08 | Powell Max Limited Congratulates Remington Firearms on its N | PMAX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/08/3377059/0/en/powell-max-li |
 | 2026-10-12 | Sciens Building Solutions Welcomes the Wilkins Company and S | CG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378894/0/en/sciens-buildi |
 | 2026-10-12 | Freshworks to Extend Freshservice into AI and Software Spend | FRSH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378824/0/en/freshworks-to |
 | 2026-10-13 | Charles Schwab's Next Earnings Report on Oct. 15 Could Send  | SCHW | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/13/charles-schwab-s-next-earnings-report- |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-16 | Strive Announces Pricing of Upsized Initial Public Offering  | ASST | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/16/3382236/0/en/strive-announ |
 | 2026-10-16 | COMP Class Action Reminder – Robbins LLP Reminds Investors o | COMP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/15/3382215/32719/en/comp-clas |
 | 2026-10-19 | Red Cat Announces Proposed Voluntary Public Purchase Offer f | RCAT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/19/3382970/0/en/red-cat-annou |
+| 2026-10-21 | Comcast Trades at 6 Times Earnings and Yields 6%. Does It De | CCZ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/comcast-earnings-yields-cheap-dividend |
+| 2026-10-21 | Will Tesla’s New Flying Roadster Send the Stock Flying? | TSLA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/will-tesla-s-new-flying-roadster-send- |
+| 2026-10-21 | SIKA TO ACQUIRE ADHESIVES BUSINESS SERVING ASIAN GROWTH MARK | SXYAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/21/3385097/0/en/sika-to-acqui |
 
 
 ---
