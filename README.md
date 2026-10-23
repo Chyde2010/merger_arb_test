@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-22 10:22 UTC
+**Last updated:** 2026-10-23 10:20 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 102 |
+| Days running | 103 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-12 | Sciens Building Solutions Welcomes the Wilkins Company and S | CG | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378894/0/en/sciens-buildi |
-| 2026-10-12 | Freshworks to Extend Freshservice into AI and Software Spend | FRSH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/12/3378824/0/en/freshworks-to |
-| 2026-10-13 | Charles Schwab's Next Earnings Report on Oct. 15 Could Send  | SCHW | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/13/charles-schwab-s-next-earnings-report- |
 | 2026-10-13 | Foresight Signed a Non-Binding Term Sheet to Acquire 50.01%  | FRSX | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379499/0/en/foresight-sig |
 | 2026-10-13 | Publicis Groupe : Revenu du troisième trimestre 2026 | PUBGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379313/0/fr/publicis-grou |
 | 2026-10-13 | CSG enters the space sector through investment in MDA Space | CSGVY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/13/3379303/0/en/csg-enters-th |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-21 | Comcast Trades at 6 Times Earnings and Yields 6%. Does It De | CCZ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/comcast-earnings-yields-cheap-dividend |
 | 2026-10-21 | Will Tesla’s New Flying Roadster Send the Stock Flying? | TSLA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/will-tesla-s-new-flying-roadster-send- |
 | 2026-10-21 | SIKA TO ACQUIRE ADHESIVES BUSINESS SERVING ASIAN GROWTH MARK | SXYAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/21/3385097/0/en/sika-to-acqui |
+| 2026-10-23 | Why TTM Technologies Stock Plunged This Week | TTMI | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/market-movers/2026/10/23/why-ttm-technologies-stoc |
+| 2026-10-23 | Meta Is Doing Something It’s Never Done Before. Here’s What  | META | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/23/meta-is-doing-something-it-s-never-don |
+| 2026-10-23 | Allegion: 3 Key Takeaways for Long-Term Investors | ALLE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/10/23/allegion-3-key-takeaways-for- |
 
 
 ---
