@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-27 10:45 UTC
+**Last updated:** 2026-10-28 11:28 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 107 |
+| Days running | 108 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-16 | Director/PDMR Shareholding | AMIGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/16/3382255/0/en/director-pdmr |
 | 2026-10-16 | Massive News for IonQ Stock Investors | IONQ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/16/massive-news-for-ionq-stock-investors/ |
 | 2026-10-16 | Strive Announces Pricing of Upsized Initial Public Offering  | ASST | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/16/3382236/0/en/strive-announ |
 | 2026-10-16 | COMP Class Action Reminder – Robbins LLP Reminds Investors o | COMP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/15/3382215/32719/en/comp-clas |
@@ -126,6 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-26 | $CDNL Stock Losses: BFA Law Reminds Cardinal Infrastructure  | CDNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/26/3387899/0/en/cdnl-stock-lo |
 | 2026-10-26 | STMicroelectronics introduces first automotive safety combin | STM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/26/3387826/0/en/stmicroelectr |
 | 2026-10-27 | Invitation to BTS Q3 2026 presentation | BTSGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/27/3388727/0/en/invitation-to |
+| 2026-10-28 | INVESTIGATION NOTICE: Girard Sharp Law Firm Encourages Forme | BA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/28/3389939/0/en/investigation |
 
 
 ---
