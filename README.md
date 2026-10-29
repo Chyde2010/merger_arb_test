@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-28 11:28 UTC
+**Last updated:** 2026-10-29 11:38 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 108 |
+| Days running | 109 |
 
 ---
 
@@ -111,10 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-16 | Massive News for IonQ Stock Investors | IONQ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/16/massive-news-for-ionq-stock-investors/ |
-| 2026-10-16 | Strive Announces Pricing of Upsized Initial Public Offering  | ASST | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/16/3382236/0/en/strive-announ |
-| 2026-10-16 | COMP Class Action Reminder – Robbins LLP Reminds Investors o | COMP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/15/3382215/32719/en/comp-clas |
-| 2026-10-19 | Red Cat Announces Proposed Voluntary Public Purchase Offer f | RCAT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/19/3382970/0/en/red-cat-annou |
 | 2026-10-21 | Comcast Trades at 6 Times Earnings and Yields 6%. Does It De | CCZ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/comcast-earnings-yields-cheap-dividend |
 | 2026-10-21 | Will Tesla’s New Flying Roadster Send the Stock Flying? | TSLA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/will-tesla-s-new-flying-roadster-send- |
 | 2026-10-21 | SIKA TO ACQUIRE ADHESIVES BUSINESS SERVING ASIAN GROWTH MARK | SXYAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/21/3385097/0/en/sika-to-acqui |
@@ -126,6 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-26 | STMicroelectronics introduces first automotive safety combin | STM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/26/3387826/0/en/stmicroelectr |
 | 2026-10-27 | Invitation to BTS Q3 2026 presentation | BTSGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/27/3388727/0/en/invitation-to |
 | 2026-10-28 | INVESTIGATION NOTICE: Girard Sharp Law Firm Encourages Forme | BA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/28/3389939/0/en/investigation |
+| 2026-10-29 | Boralex accelerates expansion in the United Kingdom with the | BN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/29/3391129/0/en/boralex-accel |
+| 2026-10-29 | First Mid Bancshares, Inc. Announces Acquisition of Evergree | FMBH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/29/3391084/0/en/first-mid-ban |
+| 2026-10-29 | Rush Street Interactive: 3 Key Takeaways for Long-Term Inves | RSI | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/10/29/rush-street-interactive-3-key |
+| 2026-10-29 | 5 Quantum Computing Stocks Investors Should Be Watching in 2 | QUBT | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/29/5-quantum-computing-stocks-investors-s |
 
 
 ---
