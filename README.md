@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-29 11:38 UTC
+**Last updated:** 2026-10-30 11:29 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 109 |
+| Days running | 110 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-21 | Comcast Trades at 6 Times Earnings and Yields 6%. Does It De | CCZ | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/comcast-earnings-yields-cheap-dividend |
 | 2026-10-21 | Will Tesla’s New Flying Roadster Send the Stock Flying? | TSLA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/will-tesla-s-new-flying-roadster-send- |
 | 2026-10-21 | SIKA TO ACQUIRE ADHESIVES BUSINESS SERVING ASIAN GROWTH MARK | SXYAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/21/3385097/0/en/sika-to-acqui |
 | 2026-10-23 | Why TTM Technologies Stock Plunged This Week | TTMI | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/market-movers/2026/10/23/why-ttm-technologies-stoc |
@@ -123,9 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-27 | Invitation to BTS Q3 2026 presentation | BTSGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/27/3388727/0/en/invitation-to |
 | 2026-10-28 | INVESTIGATION NOTICE: Girard Sharp Law Firm Encourages Forme | BA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/28/3389939/0/en/investigation |
 | 2026-10-29 | Boralex accelerates expansion in the United Kingdom with the | BN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/29/3391129/0/en/boralex-accel |
-| 2026-10-29 | First Mid Bancshares, Inc. Announces Acquisition of Evergree | FMBH | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/29/3391084/0/en/first-mid-ban |
 | 2026-10-29 | Rush Street Interactive: 3 Key Takeaways for Long-Term Inves | RSI | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/10/29/rush-street-interactive-3-key |
 | 2026-10-29 | 5 Quantum Computing Stocks Investors Should Be Watching in 2 | QUBT | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/29/5-quantum-computing-stocks-investors-s |
+| 2026-10-30 | Storaktionærmeddelelse | BLK | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/30/3392064/0/da/storaktion%C3 |
+| 2026-10-30 | INVL fondo valdoma „Galinta“ pasirašė sutartį įsigyti Estijo | WRDLY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/30/3392056/0/lt/invl-fondo-va |
 
 
 ---
