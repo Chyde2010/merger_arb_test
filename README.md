@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-10-30 11:29 UTC
+**Last updated:** 2026-11-02 13:42 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 110 |
+| Days running | 113 |
 
 ---
 
@@ -111,10 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-21 | Will Tesla’s New Flying Roadster Send the Stock Flying? | TSLA | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/21/will-tesla-s-new-flying-roadster-send- |
-| 2026-10-21 | SIKA TO ACQUIRE ADHESIVES BUSINESS SERVING ASIAN GROWTH MARK | SXYAY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/21/3385097/0/en/sika-to-acqui |
-| 2026-10-23 | Why TTM Technologies Stock Plunged This Week | TTMI | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/market-movers/2026/10/23/why-ttm-technologies-stoc |
-| 2026-10-23 | Meta Is Doing Something It’s Never Done Before. Here’s What  | META | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/23/meta-is-doing-something-it-s-never-don |
 | 2026-10-23 | Allegion: 3 Key Takeaways for Long-Term Investors | ALLE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/10/23/allegion-3-key-takeaways-for- |
 | 2026-10-26 | Corxel US and Amanat Acquisition Corp Announce Definitive Bu | AMAN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/26/3387902/0/en/corxel-us-and |
 | 2026-10-26 | $CDNL Stock Losses: BFA Law Reminds Cardinal Infrastructure  | CDNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/26/3387899/0/en/cdnl-stock-lo |
@@ -126,6 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-10-29 | 5 Quantum Computing Stocks Investors Should Be Watching in 2 | QUBT | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/29/5-quantum-computing-stocks-investors-s |
 | 2026-10-30 | Storaktionærmeddelelse | BLK | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/30/3392064/0/da/storaktion%C3 |
 | 2026-10-30 | INVL fondo valdoma „Galinta“ pasirašė sutartį įsigyti Estijo | WRDLY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/30/3392056/0/lt/invl-fondo-va |
+| 2026-11-02 | Titan: 3 Key Takeaways for Long-Term Investors | TWI | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/02/titan-3-key-takeaways-for-lon |
+| 2026-11-02 | W&T Offshore: 3 Key Takeaways for Long-Term Investors | WTI | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/02/wt-offshore-3-key-takeaways-f |
+| 2026-11-02 | PPHC Announces Acquisition of Reevemark | PPHC | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/02/3392943/0/en/pphc-announce |
+| 2026-11-02 | Dorchester Minerals, L.P. Announces Acquisition of Mineral a | DMLP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/02/3392939/0/en/dorchester-mi |
 
 
 ---
