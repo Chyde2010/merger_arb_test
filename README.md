@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-04 13:09 UTC
+**Last updated:** 2026-11-05 13:23 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 115 |
+| Days running | 116 |
 
 ---
 
@@ -111,11 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-10-26 | $CDNL Stock Losses: BFA Law Reminds Cardinal Infrastructure  | CDNL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/26/3387899/0/en/cdnl-stock-lo |
-| 2026-10-26 | STMicroelectronics introduces first automotive safety combin | STM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/26/3387826/0/en/stmicroelectr |
-| 2026-10-27 | Invitation to BTS Q3 2026 presentation | BTSGY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/27/3388727/0/en/invitation-to |
-| 2026-10-28 | INVESTIGATION NOTICE: Girard Sharp Law Firm Encourages Forme | BA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/28/3389939/0/en/investigation |
-| 2026-10-29 | Boralex accelerates expansion in the United Kingdom with the | BN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/29/3391129/0/en/boralex-accel |
 | 2026-10-29 | Rush Street Interactive: 3 Key Takeaways for Long-Term Inves | RSI | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/10/29/rush-street-interactive-3-key |
 | 2026-10-29 | 5 Quantum Computing Stocks Investors Should Be Watching in 2 | QUBT | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/10/29/5-quantum-computing-stocks-investors-s |
 | 2026-10-30 | Storaktionærmeddelelse | BLK | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/10/30/3392064/0/da/storaktion%C3 |
@@ -126,6 +121,11 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-04 | etoro Expands into Latin America with Acquisition of Argenti | ETOR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395226/0/en/etoro-expands |
 | 2026-11-04 | Processa Pharmaceuticals Announces Key Leadership Appointmen | PCSA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395230/0/en/processa-phar |
 | 2026-11-04 | SFL - Third Quarter 2026 Results | SFL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395089/0/en/sfl-third-qua |
+| 2026-11-05 | Greif: 3 Key Takeaways for Long-Term Investors | GEF | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/05/greif-3-key-takeaways-for-lon |
+| 2026-11-05 | Reservoir: 3 Key Takeaways for Long-Term Investors | RSVR | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/05/reservoir-3-key-takeaways-for |
+| 2026-11-05 | Geron: 3 Key Takeaways for Long-Term Investors | GERN | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/05/geron-3-key-takeaways-for-lon |
+| 2026-11-05 | 2 Bank Stocks to Buy After Their Third-Quarter Earnings Repo | AMJB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/05/2-bank-stocks-to-buy-after-their-third |
+| 2026-11-05 | Perimeter Group Reports Third Quarter 2026 Financial Results | PRM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/05/3396159/0/en/perimeter-gro |
 
 
 ---
