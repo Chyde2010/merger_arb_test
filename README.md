@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-06 13:06 UTC
+**Last updated:** 2026-11-09 14:08 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 117 |
+| Days running | 120 |
 
 ---
 
@@ -111,6 +111,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
+| 2026-11-04 | etoro Expands into Latin America with Acquisition of Argenti | ETOR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395226/0/en/etoro-expands |
 | 2026-11-04 | Processa Pharmaceuticals Announces Key Leadership Appointmen | PCSA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395230/0/en/processa-phar |
 | 2026-11-04 | SFL - Third Quarter 2026 Results | SFL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395089/0/en/sfl-third-qua |
 | 2026-11-05 | Greif: 3 Key Takeaways for Long-Term Investors | GEF | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/05/greif-3-key-takeaways-for-lon |
@@ -120,12 +121,11 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-05 | Perimeter Group Reports Third Quarter 2026 Financial Results | PRM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/05/3396159/0/en/perimeter-gro |
 | 2026-11-06 | Bending Spoons to announce Q3 2026 results | BSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/06/3397470/0/en/bending-spoon |
 | 2026-11-06 | Protara Therapeutics Announces Third Quarter 2026 Financial  | PRTO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/06/3397475/0/en/protara-thera |
-| 2026-11-06 | Acrivon Expands into Immunology and Inflammation with Acquis | ACRV | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/06/3397471/0/en/acrivon-expan |
 | 2026-11-06 | Reformation: 3 Key Takeaways for Long-Term Investors | REF | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/06/reformation-3-key-takeaways-f |
 | 2026-11-06 | AST SpaceMobile's Brazil Deal Could Be a Major Growth Cataly | ASTS | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/06/ast-spacemobile-s-brazil-deal-could-be |
-| 2026-11-06 | Here's What $5,000 in USA Rare Earth Could Be Worth by 2030  | USAR | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/06/what-5k-usa-rare-earth-worth-mp-materi |
 | 2026-11-06 | Beam Global Announces Termination of Agreement to Acquire Sc | BEEM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/06/3397382/0/en/beam-global-a |
 | 2026-11-06 | Grindr: 3 Key Takeaways for Long-Term Investors | GRND | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/06/grindr-3-key-takeaways-for-lo |
+| 2026-11-09 | CareTrust: 3 Key Takeaways for Long-Term Investors | CTRE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/09/caretrust-3-key-takeaways-for |
 
 
 ---
