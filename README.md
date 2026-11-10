@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-09 14:08 UTC
+**Last updated:** 2026-11-10 13:39 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 120 |
+| Days running | 121 |
 
 ---
 
@@ -111,9 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-11-04 | etoro Expands into Latin America with Acquisition of Argenti | ETOR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395226/0/en/etoro-expands |
-| 2026-11-04 | Processa Pharmaceuticals Announces Key Leadership Appointmen | PCSA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395230/0/en/processa-phar |
-| 2026-11-04 | SFL - Third Quarter 2026 Results | SFL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/04/3395089/0/en/sfl-third-qua |
 | 2026-11-05 | Greif: 3 Key Takeaways for Long-Term Investors | GEF | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/05/greif-3-key-takeaways-for-lon |
 | 2026-11-05 | Reservoir: 3 Key Takeaways for Long-Term Investors | RSVR | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/05/reservoir-3-key-takeaways-for |
 | 2026-11-05 | Geron: 3 Key Takeaways for Long-Term Investors | GERN | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/05/geron-3-key-takeaways-for-lon |
@@ -126,6 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-06 | Beam Global Announces Termination of Agreement to Acquire Sc | BEEM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/06/3397382/0/en/beam-global-a |
 | 2026-11-06 | Grindr: 3 Key Takeaways for Long-Term Investors | GRND | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/06/grindr-3-key-takeaways-for-lo |
 | 2026-11-09 | CareTrust: 3 Key Takeaways for Long-Term Investors | CTRE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/09/caretrust-3-key-takeaways-for |
+| 2026-11-10 | What's Wrong With Kimberly-Clark Stock? | KMB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/10/whats-wrong-with-kimberly-clark-stock/ |
+| 2026-11-10 | Iveco Group at Fenatran 2026: showcasing products, technolog | WEGZY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/10/3399256/0/en/iveco-group-a |
+| 2026-11-10 | Immuron Engages LifeSci Capital as its Exclusive Financial A | IMRN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/10/3399266/37134/en/immuron-e |
 
 
 ---
