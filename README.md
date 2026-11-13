@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-12 13:54 UTC
+**Last updated:** 2026-11-13 13:17 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 123 |
+| Days running | 124 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-11-05 | Perimeter Group Reports Third Quarter 2026 Financial Results | PRM | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/05/3396159/0/en/perimeter-gro |
 | 2026-11-06 | Bending Spoons to announce Q3 2026 results | BSP | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/06/3397470/0/en/bending-spoon |
 | 2026-11-06 | Protara Therapeutics Announces Third Quarter 2026 Financial  | PRTO | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/06/3397475/0/en/protara-thera |
 | 2026-11-06 | Reformation: 3 Key Takeaways for Long-Term Investors | REF | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/06/reformation-3-key-takeaways-f |
@@ -126,6 +125,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-11 | Update on the UK Competition and Markets Authority’s review  | AXTA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/11/3400482/0/en/update-on-the |
 | 2026-11-12 | Pelthos Therapeutics Announces Third Quarter 2026 Financial  | PTHS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/12/3401384/0/en/pelthos-thera |
 | 2026-11-12 | Katapult Holdings Reports Third Quarter 2026 Results | KPLT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/12/3401326/0/en/katapult-hold |
+| 2026-11-13 | Grupo Aval: 3 Key Takeaways for Long-Term Investors | AVAL | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/13/grupo-aval-3-key-takeaways-fo |
 
 
 ---
