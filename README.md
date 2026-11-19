@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-18 14:24 UTC
+**Last updated:** 2026-11-19 14:35 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 129 |
+| Days running | 130 |
 
 ---
 
@@ -111,7 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-11-06 | Grindr: 3 Key Takeaways for Long-Term Investors | GRND | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/06/grindr-3-key-takeaways-for-lo |
 | 2026-11-09 | CareTrust: 3 Key Takeaways for Long-Term Investors | CTRE | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/09/caretrust-3-key-takeaways-for |
 | 2026-11-10 | What's Wrong With Kimberly-Clark Stock? | KMB | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/10/whats-wrong-with-kimberly-clark-stock/ |
 | 2026-11-10 | Immuron Engages LifeSci Capital as its Exclusive Financial A | IMRN | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/10/3399266/37134/en/immuron-e |
@@ -124,8 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-16 | Jasper Therapeutics Reports Third Quarter 2026 Financial Res | JSPR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/16/3403434/0/en/jasper-therap |
 | 2026-11-16 | Déclaration hebdomadaire des transactions sur CCI du 2026 11 | CRARY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/16/3403246/0/fr/d%C3%A9clarat |
 | 2026-11-17 | Cerrado Gold Announces Release Date for Third Quarter Financ | PAAS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/17/3404384/0/en/cerrado-gold- |
-| 2026-11-18 | NVRO Metals Secures the NVRO Metals Hub, Advances Toward Pro | HL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/18/3405463/0/en/nvro-metals-s |
 | 2026-11-18 | CoinShares Announces Third Quarter 2026 Results | CSHR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/18/3405457/0/en/coinshares-an |
+| 2026-11-19 | Chemomab Therapeutics Announces Third Quarter 2026 Financial | CMMB | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/19/3406497/0/en/chemomab-ther |
+| 2026-11-19 | ZenaTech Announces More than C$20 Million in Contracted Reve | ZENA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/19/3406498/0/en/zenatech-anno |
 
 
 ---
