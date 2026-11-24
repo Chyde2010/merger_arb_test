@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-23 16:17 UTC
+**Last updated:** 2026-11-24 16:05 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 134 |
+| Days running | 135 |
 
 ---
 
@@ -111,8 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-11-11 | Sally Beauty: 3 Key Takeaways for Long-Term Investors | SBH | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/11/sally-beauty-3-key-takeaways- |
-| 2026-11-11 | Dimensional Fund Advisors Ltd. : Form 8.3 - DCC Energy PLC - | DCCPY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/11/3400503/0/en/dimensional-f |
 | 2026-11-11 | Update on the UK Competition and Markets Authority’s review  | AXTA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/11/3400482/0/en/update-on-the |
 | 2026-11-12 | Pelthos Therapeutics Announces Third Quarter 2026 Financial  | PTHS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/12/3401384/0/en/pelthos-thera |
 | 2026-11-12 | Katapult Holdings Reports Third Quarter 2026 Results | KPLT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/12/3401326/0/en/katapult-hold |
@@ -126,6 +124,8 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-23 | Century Communities: 3 Key Takeaways for Long-Term Investors | CCS | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/23/century-communities-3-key-tak |
 | 2026-11-23 | Levenza launches personal AI agents globally for the enterpr | MSFT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/23/3408386/0/en/levenza-launc |
 | 2026-11-23 | Win Systems’ Casino Management Software Acquired by Volaris  | CNSWY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/23/3408267/0/en/win-systems-c |
+| 2026-11-24 | BRAIIN, A GLOBAL APPLIED AI PLATFORM COMPANY, FURNISHES FY20 | BRAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/24/3409294/0/en/braiin-a-glob |
+| 2026-11-24 | FrenchFry Holdings, an AI-native holding company, and Tavia  | TAVI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/24/3409074/0/en/frenchfry-hol |
 
 
 ---
