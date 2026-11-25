@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-24 16:05 UTC
+**Last updated:** 2026-11-25 15:52 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 135 |
+| Days running | 136 |
 
 ---
 
@@ -111,8 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-11-11 | Update on the UK Competition and Markets Authority’s review  | AXTA | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/11/3400482/0/en/update-on-the |
-| 2026-11-12 | Pelthos Therapeutics Announces Third Quarter 2026 Financial  | PTHS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/12/3401384/0/en/pelthos-thera |
 | 2026-11-12 | Katapult Holdings Reports Third Quarter 2026 Results | KPLT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/12/3401326/0/en/katapult-hold |
 | 2026-11-13 | Grupo Aval: 3 Key Takeaways for Long-Term Investors | AVAL | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/13/grupo-aval-3-key-takeaways-fo |
 | 2026-11-16 | Jasper Therapeutics Reports Third Quarter 2026 Financial Res | JSPR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/16/3403434/0/en/jasper-therap |
@@ -124,8 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-23 | Century Communities: 3 Key Takeaways for Long-Term Investors | CCS | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/23/century-communities-3-key-tak |
 | 2026-11-23 | Levenza launches personal AI agents globally for the enterpr | MSFT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/23/3408386/0/en/levenza-launc |
 | 2026-11-23 | Win Systems’ Casino Management Software Acquired by Volaris  | CNSWY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/23/3408267/0/en/win-systems-c |
-| 2026-11-24 | BRAIIN, A GLOBAL APPLIED AI PLATFORM COMPANY, FURNISHES FY20 | BRAI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/24/3409294/0/en/braiin-a-glob |
-| 2026-11-24 | FrenchFry Holdings, an AI-native holding company, and Tavia  | TAVI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/24/3409074/0/en/frenchfry-hol |
+| 2026-11-25 | Kirby McInerney LLP Alerts Investors Who Acquired O-I Glass, | OI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/25/3410335/937/en/kirby-mcine |
+| 2026-11-25 | XRP Just Dropped Below $1. Here's the Contrarian Case for Bu | XRPC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/25/xrp-just-dropped-below-1-heres-the-con |
+| 2026-11-25 | Coupang vs. Home Depot: Which Consumer Stock Is a Better Buy | CPNG | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/11/25/coupang-vs-home-depot-which- |
+| 2026-11-25 | Blue Gold Signs Non-Binding LOI to Acquire Established Londo | BGL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/25/3410119/0/en/blue-gold-sig |
 
 
 ---
