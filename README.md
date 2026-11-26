@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-25 15:52 UTC
+**Last updated:** 2026-11-26 15:33 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 136 |
+| Days running | 137 |
 
 ---
 
@@ -122,10 +122,10 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-23 | Century Communities: 3 Key Takeaways for Long-Term Investors | CCS | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/23/century-communities-3-key-tak |
 | 2026-11-23 | Levenza launches personal AI agents globally for the enterpr | MSFT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/23/3408386/0/en/levenza-launc |
 | 2026-11-23 | Win Systems’ Casino Management Software Acquired by Volaris  | CNSWY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/23/3408267/0/en/win-systems-c |
-| 2026-11-25 | Kirby McInerney LLP Alerts Investors Who Acquired O-I Glass, | OI | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/25/3410335/937/en/kirby-mcine |
 | 2026-11-25 | XRP Just Dropped Below $1. Here's the Contrarian Case for Bu | XRPC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/25/xrp-just-dropped-below-1-heres-the-con |
 | 2026-11-25 | Coupang vs. Home Depot: Which Consumer Stock Is a Better Buy | CPNG | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/11/25/coupang-vs-home-depot-which- |
 | 2026-11-25 | Blue Gold Signs Non-Binding LOI to Acquire Established Londo | BGL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/25/3410119/0/en/blue-gold-sig |
+| 2026-11-26 | Forget the Market's Hottest Stocks. This Boring Dividend Sto | PEP | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/26/forget-the-markets-hottest-stocks-this |
 
 
 ---
