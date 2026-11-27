@@ -6,7 +6,7 @@
 > Manual position selection and qualitative review by operator.
 > Updated automatically every weekday at 08:20 UTC via GitHub Actions.
 
-**Last updated:** 2026-11-26 15:33 UTC
+**Last updated:** 2026-11-27 15:25 UTC
 
 ---
 
@@ -45,7 +45,7 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | Win rate | 0% |
 | Avg gain on completion | +0.00% |
 | Avg loss on break | -1.43% |
-| Days running | 137 |
+| Days running | 138 |
 
 ---
 
@@ -111,8 +111,6 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 
 | Flagged | Target | Ticker | Geo | Deal Price | Spread | Source | Notes/URL |
 |---------|--------|--------|-----|-----------|--------|--------|----------|
-| 2026-11-12 | Katapult Holdings Reports Third Quarter 2026 Results | KPLT | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/12/3401326/0/en/katapult-hold |
-| 2026-11-13 | Grupo Aval: 3 Key Takeaways for Long-Term Investors | AVAL | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/13/grupo-aval-3-key-takeaways-fo |
 | 2026-11-16 | Jasper Therapeutics Reports Third Quarter 2026 Financial Res | JSPR | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/16/3403434/0/en/jasper-therap |
 | 2026-11-16 | Déclaration hebdomadaire des transactions sur CCI du 2026 11 | CRARY | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/16/3403246/0/fr/d%C3%A9clarat |
 | 2026-11-17 | Cerrado Gold Announces Release Date for Third Quarter Financ | PAAS | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/17/3404384/0/en/cerrado-gold- |
@@ -125,7 +123,9 @@ Example at 90% completion, 3% spread: 0.5% — **TRADE**
 | 2026-11-25 | XRP Just Dropped Below $1. Here's the Contrarian Case for Bu | XRPC | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/25/xrp-just-dropped-below-1-heres-the-con |
 | 2026-11-25 | Coupang vs. Home Depot: Which Consumer Stock Is a Better Buy | CPNG | US | TBC | TBC | polygon_news | https://www.fool.com/coverage/better-buy/2026/11/25/coupang-vs-home-depot-which- |
 | 2026-11-25 | Blue Gold Signs Non-Binding LOI to Acquire Established Londo | BGL | US | TBC | TBC | polygon_news | https://www.globenewswire.com/news-release/2026/11/25/3410119/0/en/blue-gold-sig |
-| 2026-11-26 | Forget the Market's Hottest Stocks. This Boring Dividend Sto | PEP | US | TBC | TBC | polygon_news | https://www.fool.com/investing/2026/11/26/forget-the-markets-hottest-stocks-this |
+| 2026-11-27 | Brookfield Business: 3 Key Takeaways for Long-Term Investors | BBUC | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/27/brookfield-business-3-key-tak |
+| 2026-11-27 | DiamondRock: 3 Key Takeaways for Long-Term Investors | DRH | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/27/diamondrock-3-key-takeaways-f |
+| 2026-11-27 | Diana Shipping: 3 Key Takeaways for Long-Term Investors | DSX | US | TBC | TBC | polygon_news | https://www.fool.com/earnings/takeaways/2026/11/27/diana-shipping-3-key-takeaway |
 
 
 ---
